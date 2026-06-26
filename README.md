@@ -91,6 +91,7 @@ If you found this repository useful, don't forget to ⭐ the repository!
 ## Array
 |  |
 | ------- |
+| [1827-minimum-operations-to-make-the-array-increasing](https://github.com/Abhinav1527/LEETCODE/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Abhinav1527/LEETCODE/tree/master/2553-separate-the-digits-in-an-array) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Abhinav1527/LEETCODE/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Simulation
@@ -139,4 +140,8 @@ If you found this repository useful, don't forget to ⭐ the repository!
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/Abhinav1527/LEETCODE/tree/master/0451-sort-characters-by-frequency) |
+## Greedy
+|  |
+| ------- |
+| [1827-minimum-operations-to-make-the-array-increasing](https://github.com/Abhinav1527/LEETCODE/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
 <!---LeetCode Topics End-->
