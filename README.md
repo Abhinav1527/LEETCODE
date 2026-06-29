@@ -94,6 +94,7 @@ If you found this repository useful, don't forget to ⭐ the repository!
 | [0128-longest-consecutive-sequence](https://github.com/Abhinav1527/LEETCODE/tree/master/0128-longest-consecutive-sequence) |
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/Abhinav1527/LEETCODE/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Abhinav1527/LEETCODE/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Abhinav1527/LEETCODE/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Abhinav1527/LEETCODE/tree/master/2553-separate-the-digits-in-an-array) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Abhinav1527/LEETCODE/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Abhinav1527/LEETCODE/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -133,6 +134,7 @@ If you found this repository useful, don't forget to ⭐ the repository!
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/Abhinav1527/LEETCODE/tree/master/0451-sort-characters-by-frequency) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Abhinav1527/LEETCODE/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 ## Sorting
 |  |
 | ------- |
