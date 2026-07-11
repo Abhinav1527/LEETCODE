@@ -95,6 +95,7 @@ If you found this repository useful, don't forget to ⭐ the repository!
 | [0015-3sum](https://github.com/Abhinav1527/LEETCODE/tree/master/0015-3sum) |
 | [0128-longest-consecutive-sequence](https://github.com/Abhinav1527/LEETCODE/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/Abhinav1527/LEETCODE/tree/master/0169-majority-element) |
+| [0219-contains-duplicate-ii](https://github.com/Abhinav1527/LEETCODE/tree/master/0219-contains-duplicate-ii) |
 | [0239-sliding-window-maximum](https://github.com/Abhinav1527/LEETCODE/tree/master/0239-sliding-window-maximum) |
 | [1288-remove-covered-intervals](https://github.com/Abhinav1527/LEETCODE/tree/master/1288-remove-covered-intervals) |
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/Abhinav1527/LEETCODE/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
@@ -114,6 +115,7 @@ If you found this repository useful, don't forget to ⭐ the repository!
 | [0013-roman-to-integer](https://github.com/Abhinav1527/LEETCODE/tree/master/0013-roman-to-integer) |
 | [0128-longest-consecutive-sequence](https://github.com/Abhinav1527/LEETCODE/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/Abhinav1527/LEETCODE/tree/master/0169-majority-element) |
+| [0219-contains-duplicate-ii](https://github.com/Abhinav1527/LEETCODE/tree/master/0219-contains-duplicate-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/Abhinav1527/LEETCODE/tree/master/0451-sort-characters-by-frequency) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Abhinav1527/LEETCODE/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Abhinav1527/LEETCODE/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
@@ -187,6 +189,7 @@ If you found this repository useful, don't forget to ⭐ the repository!
 ## Sliding Window
 |  |
 | ------- |
+| [0219-contains-duplicate-ii](https://github.com/Abhinav1527/LEETCODE/tree/master/0219-contains-duplicate-ii) |
 | [0239-sliding-window-maximum](https://github.com/Abhinav1527/LEETCODE/tree/master/0239-sliding-window-maximum) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Abhinav1527/LEETCODE/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Monotonic Queue
