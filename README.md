@@ -180,6 +180,7 @@ If you found this repository useful, don't forget to ⭐ the repository!
 ## Enumeration
 |  |
 | ------- |
+| [1291-sequential-digits](https://github.com/Abhinav1527/LEETCODE/tree/master/1291-sequential-digits) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Abhinav1527/LEETCODE/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 ## Union-Find
 |  |
