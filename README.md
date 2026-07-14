@@ -149,6 +149,7 @@ If you found this repository useful, don't forget to ⭐ the repository!
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Abhinav1527/LEETCODE/tree/master/0013-roman-to-integer) |
+| [0020-valid-parentheses](https://github.com/Abhinav1527/LEETCODE/tree/master/0020-valid-parentheses) |
 | [0344-reverse-string](https://github.com/Abhinav1527/LEETCODE/tree/master/0344-reverse-string) |
 | [0451-sort-characters-by-frequency](https://github.com/Abhinav1527/LEETCODE/tree/master/0451-sort-characters-by-frequency) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Abhinav1527/LEETCODE/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -236,4 +237,8 @@ If you found this repository useful, don't forget to ⭐ the repository!
 | [0102-binary-tree-level-order-traversal](https://github.com/Abhinav1527/LEETCODE/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Abhinav1527/LEETCODE/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/Abhinav1527/LEETCODE/tree/master/0107-binary-tree-level-order-traversal-ii) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Abhinav1527/LEETCODE/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
