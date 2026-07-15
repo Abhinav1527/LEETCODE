@@ -93,6 +93,7 @@ If you found this repository useful, don't forget to ⭐ the repository!
 | ------- |
 | [0001-two-sum](https://github.com/Abhinav1527/LEETCODE/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/Abhinav1527/LEETCODE/tree/master/0015-3sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Abhinav1527/LEETCODE/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0128-longest-consecutive-sequence](https://github.com/Abhinav1527/LEETCODE/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/Abhinav1527/LEETCODE/tree/master/0169-majority-element) |
 | [0219-contains-duplicate-ii](https://github.com/Abhinav1527/LEETCODE/tree/master/0219-contains-duplicate-ii) |
@@ -219,6 +220,7 @@ If you found this repository useful, don't forget to ⭐ the repository!
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Abhinav1527/LEETCODE/tree/master/0015-3sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Abhinav1527/LEETCODE/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0344-reverse-string](https://github.com/Abhinav1527/LEETCODE/tree/master/0344-reverse-string) |
 ## Tree
 |  |
