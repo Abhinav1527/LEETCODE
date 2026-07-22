@@ -95,6 +95,7 @@ If you found this repository useful, don't forget to ⭐ the repository!
 | [0015-3sum](https://github.com/Abhinav1527/LEETCODE/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Abhinav1527/LEETCODE/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0128-longest-consecutive-sequence](https://github.com/Abhinav1527/LEETCODE/tree/master/0128-longest-consecutive-sequence) |
+| [0136-single-number](https://github.com/Abhinav1527/LEETCODE/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/Abhinav1527/LEETCODE/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Abhinav1527/LEETCODE/tree/master/0189-rotate-array) |
 | [0219-contains-duplicate-ii](https://github.com/Abhinav1527/LEETCODE/tree/master/0219-contains-duplicate-ii) |
@@ -271,5 +272,6 @@ If you found this repository useful, don't forget to ⭐ the repository!
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/Abhinav1527/LEETCODE/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/Abhinav1527/LEETCODE/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
