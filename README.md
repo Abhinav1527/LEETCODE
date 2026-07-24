@@ -94,6 +94,7 @@ If you found this repository useful, don't forget to ⭐ the repository!
 | [0001-two-sum](https://github.com/Abhinav1527/LEETCODE/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/Abhinav1527/LEETCODE/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Abhinav1527/LEETCODE/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0075-sort-colors](https://github.com/Abhinav1527/LEETCODE/tree/master/0075-sort-colors) |
 | [0128-longest-consecutive-sequence](https://github.com/Abhinav1527/LEETCODE/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/Abhinav1527/LEETCODE/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/Abhinav1527/LEETCODE/tree/master/0169-majority-element) |
@@ -171,6 +172,7 @@ If you found this repository useful, don't forget to ⭐ the repository!
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Abhinav1527/LEETCODE/tree/master/0015-3sum) |
+| [0075-sort-colors](https://github.com/Abhinav1527/LEETCODE/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/Abhinav1527/LEETCODE/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/Abhinav1527/LEETCODE/tree/master/0268-missing-number) |
 | [0451-sort-characters-by-frequency](https://github.com/Abhinav1527/LEETCODE/tree/master/0451-sort-characters-by-frequency) |
@@ -240,6 +242,7 @@ If you found this repository useful, don't forget to ⭐ the repository!
 | ------- |
 | [0015-3sum](https://github.com/Abhinav1527/LEETCODE/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Abhinav1527/LEETCODE/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0075-sort-colors](https://github.com/Abhinav1527/LEETCODE/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/Abhinav1527/LEETCODE/tree/master/0189-rotate-array) |
 | [0344-reverse-string](https://github.com/Abhinav1527/LEETCODE/tree/master/0344-reverse-string) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Abhinav1527/LEETCODE/tree/master/3867-sum-of-gcd-of-formed-pairs) |
