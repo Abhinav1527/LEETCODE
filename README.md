@@ -96,6 +96,7 @@ If you found this repository useful, don't forget to ⭐ the repository!
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Abhinav1527/LEETCODE/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0053-maximum-subarray](https://github.com/Abhinav1527/LEETCODE/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/Abhinav1527/LEETCODE/tree/master/0075-sort-colors) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Abhinav1527/LEETCODE/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/Abhinav1527/LEETCODE/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/Abhinav1527/LEETCODE/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/Abhinav1527/LEETCODE/tree/master/0169-majority-element) |
@@ -237,6 +238,7 @@ If you found this repository useful, don't forget to ⭐ the repository!
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Abhinav1527/LEETCODE/tree/master/0053-maximum-subarray) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Abhinav1527/LEETCODE/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [2063-vowels-of-all-substrings](https://github.com/Abhinav1527/LEETCODE/tree/master/2063-vowels-of-all-substrings) |
 ## Combinatorics
 |  |
