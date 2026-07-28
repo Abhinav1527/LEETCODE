@@ -109,6 +109,7 @@ If you found this repository useful, don't forget to ⭐ the repository!
 | [0628-maximum-product-of-three-numbers](https://github.com/Abhinav1527/LEETCODE/tree/master/0628-maximum-product-of-three-numbers) |
 | [1288-remove-covered-intervals](https://github.com/Abhinav1527/LEETCODE/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/Abhinav1527/LEETCODE/tree/master/1331-rank-transform-of-an-array) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Abhinav1527/LEETCODE/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Abhinav1527/LEETCODE/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/Abhinav1527/LEETCODE/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Abhinav1527/LEETCODE/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
@@ -187,6 +188,7 @@ If you found this repository useful, don't forget to ⭐ the repository!
 | [0628-maximum-product-of-three-numbers](https://github.com/Abhinav1527/LEETCODE/tree/master/0628-maximum-product-of-three-numbers) |
 | [1288-remove-covered-intervals](https://github.com/Abhinav1527/LEETCODE/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/Abhinav1527/LEETCODE/tree/master/1331-rank-transform-of-an-array) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Abhinav1527/LEETCODE/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Abhinav1527/LEETCODE/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Abhinav1527/LEETCODE/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/Abhinav1527/LEETCODE/tree/master/3536-maximum-product-of-two-digits) |
@@ -196,6 +198,7 @@ If you found this repository useful, don't forget to ⭐ the repository!
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Abhinav1527/LEETCODE/tree/master/0239-sliding-window-maximum) |
 | [0451-sort-characters-by-frequency](https://github.com/Abhinav1527/LEETCODE/tree/master/0451-sort-characters-by-frequency) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Abhinav1527/LEETCODE/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Bucket Sort
 |  |
 | ------- |
