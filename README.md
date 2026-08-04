@@ -178,6 +178,7 @@ If you found this repository useful, don't forget to ⭐ the repository!
 | ------- |
 | [0013-roman-to-integer](https://github.com/Abhinav1527/LEETCODE/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/Abhinav1527/LEETCODE/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/Abhinav1527/LEETCODE/tree/master/0022-generate-parentheses) |
 | [0344-reverse-string](https://github.com/Abhinav1527/LEETCODE/tree/master/0344-reverse-string) |
 | [0451-sort-characters-by-frequency](https://github.com/Abhinav1527/LEETCODE/tree/master/0451-sort-characters-by-frequency) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Abhinav1527/LEETCODE/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -264,6 +265,7 @@ If you found this repository useful, don't forget to ⭐ the repository!
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Abhinav1527/LEETCODE/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/Abhinav1527/LEETCODE/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Abhinav1527/LEETCODE/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0877-stone-game](https://github.com/Abhinav1527/LEETCODE/tree/master/0877-stone-game) |
@@ -335,8 +337,13 @@ If you found this repository useful, don't forget to ⭐ the repository!
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Abhinav1527/LEETCODE/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/Abhinav1527/LEETCODE/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Abhinav1527/LEETCODE/tree/master/0040-combination-sum-ii) |
 | [0090-subsets-ii](https://github.com/Abhinav1527/LEETCODE/tree/master/0090-subsets-ii) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Abhinav1527/LEETCODE/tree/master/1863-sum-of-all-subset-xor-totals) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/Abhinav1527/LEETCODE/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
