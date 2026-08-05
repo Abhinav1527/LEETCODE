@@ -6,11 +6,13 @@ class Solution {
         return ans;
     }
     public void pick(int[] nums,int n,int idx,List<Integer> l,List<List<Integer>> ans){
-        ans.add(new ArrayList<>(l));
-        for(int i=idx;i<n;i++){
-            l.add(nums[i]);
-            pick(nums,n,i+1,l,ans);
-            l.remove(l.size()-1);
+        if(idx == n){
+            ans.add(new ArrayList<>(l));
+            return;
         }
+            l.add(nums[idx]);
+            pick(nums,n,idx+1,l,ans);
+            l.remove(l.size()-1);
+            pick(nums,n,idx+1,l,ans);
     }
 }
