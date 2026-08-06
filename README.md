@@ -97,6 +97,7 @@ If you found this repository useful, don't forget to ⭐ the repository!
 | [0031-next-permutation](https://github.com/Abhinav1527/LEETCODE/tree/master/0031-next-permutation) |
 | [0039-combination-sum](https://github.com/Abhinav1527/LEETCODE/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Abhinav1527/LEETCODE/tree/master/0040-combination-sum-ii) |
+| [0041-first-missing-positive](https://github.com/Abhinav1527/LEETCODE/tree/master/0041-first-missing-positive) |
 | [0046-permutations](https://github.com/Abhinav1527/LEETCODE/tree/master/0046-permutations) |
 | [0053-maximum-subarray](https://github.com/Abhinav1527/LEETCODE/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/Abhinav1527/LEETCODE/tree/master/0075-sort-colors) |
@@ -141,6 +142,7 @@ If you found this repository useful, don't forget to ⭐ the repository!
 | ------- |
 | [0001-two-sum](https://github.com/Abhinav1527/LEETCODE/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/Abhinav1527/LEETCODE/tree/master/0013-roman-to-integer) |
+| [0041-first-missing-positive](https://github.com/Abhinav1527/LEETCODE/tree/master/0041-first-missing-positive) |
 | [0128-longest-consecutive-sequence](https://github.com/Abhinav1527/LEETCODE/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/Abhinav1527/LEETCODE/tree/master/0169-majority-element) |
 | [0219-contains-duplicate-ii](https://github.com/Abhinav1527/LEETCODE/tree/master/0219-contains-duplicate-ii) |
