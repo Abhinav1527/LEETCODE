@@ -99,6 +99,7 @@ If you found this repository useful, don't forget to ⭐ the repository!
 | [0040-combination-sum-ii](https://github.com/Abhinav1527/LEETCODE/tree/master/0040-combination-sum-ii) |
 | [0041-first-missing-positive](https://github.com/Abhinav1527/LEETCODE/tree/master/0041-first-missing-positive) |
 | [0046-permutations](https://github.com/Abhinav1527/LEETCODE/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/Abhinav1527/LEETCODE/tree/master/0047-permutations-ii) |
 | [0053-maximum-subarray](https://github.com/Abhinav1527/LEETCODE/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/Abhinav1527/LEETCODE/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/Abhinav1527/LEETCODE/tree/master/0078-subsets) |
@@ -200,6 +201,7 @@ If you found this repository useful, don't forget to ⭐ the repository!
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Abhinav1527/LEETCODE/tree/master/0015-3sum) |
+| [0047-permutations-ii](https://github.com/Abhinav1527/LEETCODE/tree/master/0047-permutations-ii) |
 | [0075-sort-colors](https://github.com/Abhinav1527/LEETCODE/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/Abhinav1527/LEETCODE/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/Abhinav1527/LEETCODE/tree/master/0268-missing-number) |
@@ -355,6 +357,7 @@ If you found this repository useful, don't forget to ⭐ the repository!
 | [0039-combination-sum](https://github.com/Abhinav1527/LEETCODE/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Abhinav1527/LEETCODE/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/Abhinav1527/LEETCODE/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/Abhinav1527/LEETCODE/tree/master/0047-permutations-ii) |
 | [0077-combinations](https://github.com/Abhinav1527/LEETCODE/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/Abhinav1527/LEETCODE/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Abhinav1527/LEETCODE/tree/master/0090-subsets-ii) |
