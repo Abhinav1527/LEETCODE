@@ -127,6 +127,7 @@ If you found this repository useful, don't forget to ⭐ the repository!
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Abhinav1527/LEETCODE/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Abhinav1527/LEETCODE/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Abhinav1527/LEETCODE/tree/master/2553-separate-the-digits-in-an-array) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Abhinav1527/LEETCODE/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Abhinav1527/LEETCODE/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Abhinav1527/LEETCODE/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Abhinav1527/LEETCODE/tree/master/3513-number-of-unique-xor-triplets-i) |
@@ -154,6 +155,7 @@ If you found this repository useful, don't forget to ⭐ the repository!
 | [0491-non-decreasing-subsequences](https://github.com/Abhinav1527/LEETCODE/tree/master/0491-non-decreasing-subsequences) |
 | [1331-rank-transform-of-an-array](https://github.com/Abhinav1527/LEETCODE/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Abhinav1527/LEETCODE/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Abhinav1527/LEETCODE/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Abhinav1527/LEETCODE/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Abhinav1527/LEETCODE/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Abhinav1527/LEETCODE/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
@@ -258,6 +260,7 @@ If you found this repository useful, don't forget to ⭐ the repository!
 | [0219-contains-duplicate-ii](https://github.com/Abhinav1527/LEETCODE/tree/master/0219-contains-duplicate-ii) |
 | [0239-sliding-window-maximum](https://github.com/Abhinav1527/LEETCODE/tree/master/0239-sliding-window-maximum) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Abhinav1527/LEETCODE/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Abhinav1527/LEETCODE/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Monotonic Queue
 |  |
 | ------- |
