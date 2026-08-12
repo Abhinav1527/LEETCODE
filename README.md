@@ -100,6 +100,7 @@ If you found this repository useful, don't forget to ⭐ the repository!
 | [0041-first-missing-positive](https://github.com/Abhinav1527/LEETCODE/tree/master/0041-first-missing-positive) |
 | [0046-permutations](https://github.com/Abhinav1527/LEETCODE/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/Abhinav1527/LEETCODE/tree/master/0047-permutations-ii) |
+| [0051-n-queens](https://github.com/Abhinav1527/LEETCODE/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/Abhinav1527/LEETCODE/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/Abhinav1527/LEETCODE/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/Abhinav1527/LEETCODE/tree/master/0078-subsets) |
@@ -364,6 +365,7 @@ If you found this repository useful, don't forget to ⭐ the repository!
 | [0040-combination-sum-ii](https://github.com/Abhinav1527/LEETCODE/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/Abhinav1527/LEETCODE/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/Abhinav1527/LEETCODE/tree/master/0047-permutations-ii) |
+| [0051-n-queens](https://github.com/Abhinav1527/LEETCODE/tree/master/0051-n-queens) |
 | [0077-combinations](https://github.com/Abhinav1527/LEETCODE/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/Abhinav1527/LEETCODE/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Abhinav1527/LEETCODE/tree/master/0090-subsets-ii) |
@@ -374,4 +376,8 @@ If you found this repository useful, don't forget to ⭐ the repository!
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Abhinav1527/LEETCODE/tree/master/0022-generate-parentheses) |
+## Algorithm X
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/Abhinav1527/LEETCODE/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->
