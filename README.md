@@ -95,6 +95,7 @@ If you found this repository useful, don't forget to ⭐ the repository!
 | [0015-3sum](https://github.com/Abhinav1527/LEETCODE/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Abhinav1527/LEETCODE/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/Abhinav1527/LEETCODE/tree/master/0031-next-permutation) |
+| [0037-sudoku-solver](https://github.com/Abhinav1527/LEETCODE/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/Abhinav1527/LEETCODE/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Abhinav1527/LEETCODE/tree/master/0040-combination-sum-ii) |
 | [0041-first-missing-positive](https://github.com/Abhinav1527/LEETCODE/tree/master/0041-first-missing-positive) |
@@ -150,6 +151,7 @@ If you found this repository useful, don't forget to ⭐ the repository!
 | ------- |
 | [0001-two-sum](https://github.com/Abhinav1527/LEETCODE/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/Abhinav1527/LEETCODE/tree/master/0013-roman-to-integer) |
+| [0037-sudoku-solver](https://github.com/Abhinav1527/LEETCODE/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/Abhinav1527/LEETCODE/tree/master/0041-first-missing-positive) |
 | [0128-longest-consecutive-sequence](https://github.com/Abhinav1527/LEETCODE/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/Abhinav1527/LEETCODE/tree/master/0169-majority-element) |
@@ -371,6 +373,7 @@ If you found this repository useful, don't forget to ⭐ the repository!
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Abhinav1527/LEETCODE/tree/master/0022-generate-parentheses) |
+| [0037-sudoku-solver](https://github.com/Abhinav1527/LEETCODE/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/Abhinav1527/LEETCODE/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Abhinav1527/LEETCODE/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/Abhinav1527/LEETCODE/tree/master/0046-permutations) |
@@ -389,5 +392,14 @@ If you found this repository useful, don't forget to ⭐ the repository!
 ## Algorithm X
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/Abhinav1527/LEETCODE/tree/master/0037-sudoku-solver) |
 | [0051-n-queens](https://github.com/Abhinav1527/LEETCODE/tree/master/0051-n-queens) |
+## Matrix
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/Abhinav1527/LEETCODE/tree/master/0037-sudoku-solver) |
+## Dancing Links
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/Abhinav1527/LEETCODE/tree/master/0037-sudoku-solver) |
 <!---LeetCode Topics End-->
