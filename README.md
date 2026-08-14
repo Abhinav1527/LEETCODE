@@ -112,6 +112,7 @@ If you found this repository useful, don't forget to ⭐ the repository!
 | [0136-single-number](https://github.com/Abhinav1527/LEETCODE/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/Abhinav1527/LEETCODE/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Abhinav1527/LEETCODE/tree/master/0189-rotate-array) |
+| [0209-minimum-size-subarray-sum](https://github.com/Abhinav1527/LEETCODE/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/Abhinav1527/LEETCODE/tree/master/0219-contains-duplicate-ii) |
 | [0239-sliding-window-maximum](https://github.com/Abhinav1527/LEETCODE/tree/master/0239-sliding-window-maximum) |
 | [0268-missing-number](https://github.com/Abhinav1527/LEETCODE/tree/master/0268-missing-number) |
@@ -195,6 +196,7 @@ If you found this repository useful, don't forget to ⭐ the repository!
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Abhinav1527/LEETCODE/tree/master/0209-minimum-size-subarray-sum) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Abhinav1527/LEETCODE/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## String
 |  |
@@ -271,6 +273,7 @@ If you found this repository useful, don't forget to ⭐ the repository!
 |  |
 | ------- |
 | [0076-minimum-window-substring](https://github.com/Abhinav1527/LEETCODE/tree/master/0076-minimum-window-substring) |
+| [0209-minimum-size-subarray-sum](https://github.com/Abhinav1527/LEETCODE/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/Abhinav1527/LEETCODE/tree/master/0219-contains-duplicate-ii) |
 | [0239-sliding-window-maximum](https://github.com/Abhinav1527/LEETCODE/tree/master/0239-sliding-window-maximum) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Abhinav1527/LEETCODE/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -351,6 +354,7 @@ If you found this repository useful, don't forget to ⭐ the repository!
 ## Binary Search
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Abhinav1527/LEETCODE/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/Abhinav1527/LEETCODE/tree/master/0268-missing-number) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Abhinav1527/LEETCODE/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Abhinav1527/LEETCODE/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
