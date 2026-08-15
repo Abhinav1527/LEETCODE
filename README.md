@@ -139,6 +139,7 @@ If you found this repository useful, don't forget to ⭐ the repository!
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Abhinav1527/LEETCODE/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Abhinav1527/LEETCODE/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Abhinav1527/LEETCODE/tree/master/3514-number-of-unique-xor-triplets-ii) |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Abhinav1527/LEETCODE/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3731-find-missing-elements](https://github.com/Abhinav1527/LEETCODE/tree/master/3731-find-missing-elements) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Abhinav1527/LEETCODE/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Abhinav1527/LEETCODE/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -370,6 +371,7 @@ If you found this repository useful, don't forget to ⭐ the repository!
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Abhinav1527/LEETCODE/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Abhinav1527/LEETCODE/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Abhinav1527/LEETCODE/tree/master/3514-number-of-unique-xor-triplets-ii) |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Abhinav1527/LEETCODE/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Counting Sort
 |  |
 | ------- |
