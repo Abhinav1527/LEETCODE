@@ -206,6 +206,7 @@ If you found this repository useful, don't forget to ⭐ the repository!
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Abhinav1527/LEETCODE/tree/master/0005-longest-palindromic-substring) |
 | [0013-roman-to-integer](https://github.com/Abhinav1527/LEETCODE/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/Abhinav1527/LEETCODE/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Abhinav1527/LEETCODE/tree/master/0022-generate-parentheses) |
@@ -311,6 +312,7 @@ If you found this repository useful, don't forget to ⭐ the repository!
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Abhinav1527/LEETCODE/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/Abhinav1527/LEETCODE/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/Abhinav1527/LEETCODE/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Abhinav1527/LEETCODE/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -325,6 +327,7 @@ If you found this repository useful, don't forget to ⭐ the repository!
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Abhinav1527/LEETCODE/tree/master/0005-longest-palindromic-substring) |
 | [0015-3sum](https://github.com/Abhinav1527/LEETCODE/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Abhinav1527/LEETCODE/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/Abhinav1527/LEETCODE/tree/master/0031-next-permutation) |
@@ -436,4 +439,8 @@ If you found this repository useful, don't forget to ⭐ the repository!
 |  |
 | ------- |
 | [2029-stone-game-ix](https://github.com/Abhinav1527/LEETCODE/tree/master/2029-stone-game-ix) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/Abhinav1527/LEETCODE/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
