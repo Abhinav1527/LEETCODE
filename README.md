@@ -297,6 +297,7 @@ If you found this repository useful, don't forget to ⭐ the repository!
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Abhinav1527/LEETCODE/tree/master/0013-roman-to-integer) |
+| [0060-permutation-sequence](https://github.com/Abhinav1527/LEETCODE/tree/master/0060-permutation-sequence) |
 | [0189-rotate-array](https://github.com/Abhinav1527/LEETCODE/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Abhinav1527/LEETCODE/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Abhinav1527/LEETCODE/tree/master/0628-maximum-product-of-three-numbers) |
@@ -445,4 +446,8 @@ If you found this repository useful, don't forget to ⭐ the repository!
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Abhinav1527/LEETCODE/tree/master/0005-longest-palindromic-substring) |
+## Recursion
+|  |
+| ------- |
+| [0060-permutation-sequence](https://github.com/Abhinav1527/LEETCODE/tree/master/0060-permutation-sequence) |
 <!---LeetCode Topics End-->
