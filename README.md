@@ -99,6 +99,7 @@ If you found this repository useful, don't forget to ⭐ the repository!
 | [0048-rotate-image](https://github.com/Abhinav1527/LEETCODE/tree/master/0048-rotate-image) |
 | [0051-n-queens](https://github.com/Abhinav1527/LEETCODE/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/Abhinav1527/LEETCODE/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/Abhinav1527/LEETCODE/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/Abhinav1527/LEETCODE/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Abhinav1527/LEETCODE/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/Abhinav1527/LEETCODE/tree/master/0078-subsets) |
@@ -146,6 +147,7 @@ If you found this repository useful, don't forget to ⭐ the repository!
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/Abhinav1527/LEETCODE/tree/master/0054-spiral-matrix) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Abhinav1527/LEETCODE/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Abhinav1527/LEETCODE/tree/master/2553-separate-the-digits-in-an-array) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Abhinav1527/LEETCODE/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -427,6 +429,7 @@ If you found this repository useful, don't forget to ⭐ the repository!
 | [0036-valid-sudoku](https://github.com/Abhinav1527/LEETCODE/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/Abhinav1527/LEETCODE/tree/master/0037-sudoku-solver) |
 | [0048-rotate-image](https://github.com/Abhinav1527/LEETCODE/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/Abhinav1527/LEETCODE/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/Abhinav1527/LEETCODE/tree/master/0073-set-matrix-zeroes) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Abhinav1527/LEETCODE/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 ## Dancing Links
