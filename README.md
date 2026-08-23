@@ -126,6 +126,7 @@ If you found this repository useful, don't forget to ⭐ the repository!
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/Abhinav1527/LEETCODE/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Abhinav1527/LEETCODE/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Abhinav1527/LEETCODE/tree/master/1863-sum-of-all-subset-xor-totals) |
+| [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Abhinav1527/LEETCODE/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Abhinav1527/LEETCODE/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Abhinav1527/LEETCODE/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/Abhinav1527/LEETCODE/tree/master/2029-stone-game-ix) |
@@ -427,6 +428,7 @@ If you found this repository useful, don't forget to ⭐ the repository!
 | [0037-sudoku-solver](https://github.com/Abhinav1527/LEETCODE/tree/master/0037-sudoku-solver) |
 | [0048-rotate-image](https://github.com/Abhinav1527/LEETCODE/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/Abhinav1527/LEETCODE/tree/master/0073-set-matrix-zeroes) |
+| [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Abhinav1527/LEETCODE/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 ## Dancing Links
 |  |
 | ------- |
