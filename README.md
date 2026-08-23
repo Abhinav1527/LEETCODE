@@ -96,6 +96,7 @@ If you found this repository useful, don't forget to ⭐ the repository!
 | [0041-first-missing-positive](https://github.com/Abhinav1527/LEETCODE/tree/master/0041-first-missing-positive) |
 | [0046-permutations](https://github.com/Abhinav1527/LEETCODE/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/Abhinav1527/LEETCODE/tree/master/0047-permutations-ii) |
+| [0048-rotate-image](https://github.com/Abhinav1527/LEETCODE/tree/master/0048-rotate-image) |
 | [0051-n-queens](https://github.com/Abhinav1527/LEETCODE/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/Abhinav1527/LEETCODE/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/Abhinav1527/LEETCODE/tree/master/0073-set-matrix-zeroes) |
@@ -293,6 +294,7 @@ If you found this repository useful, don't forget to ⭐ the repository!
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Abhinav1527/LEETCODE/tree/master/0013-roman-to-integer) |
+| [0048-rotate-image](https://github.com/Abhinav1527/LEETCODE/tree/master/0048-rotate-image) |
 | [0060-permutation-sequence](https://github.com/Abhinav1527/LEETCODE/tree/master/0060-permutation-sequence) |
 | [0189-rotate-array](https://github.com/Abhinav1527/LEETCODE/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Abhinav1527/LEETCODE/tree/master/0268-missing-number) |
@@ -423,6 +425,7 @@ If you found this repository useful, don't forget to ⭐ the repository!
 | ------- |
 | [0036-valid-sudoku](https://github.com/Abhinav1527/LEETCODE/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/Abhinav1527/LEETCODE/tree/master/0037-sudoku-solver) |
+| [0048-rotate-image](https://github.com/Abhinav1527/LEETCODE/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/Abhinav1527/LEETCODE/tree/master/0073-set-matrix-zeroes) |
 ## Dancing Links
 |  |
