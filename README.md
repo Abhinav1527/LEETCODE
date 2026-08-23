@@ -72,12 +72,6 @@ If you found this repository useful, don't forget to ⭐ the repository!
 
 ---
 
-# 📚 LeetCode Topics
-
-> **⚠️ The section below is automatically maintained by LeetHub. Do not edit manually.**
-
----
-
 <div align="center">
 
 ### ⭐ Happy Coding!
