@@ -105,6 +105,7 @@ If you found this repository useful, don't forget to ⭐ the repository!
 | [0075-sort-colors](https://github.com/Abhinav1527/LEETCODE/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/Abhinav1527/LEETCODE/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Abhinav1527/LEETCODE/tree/master/0090-subsets-ii) |
+| [0118-pascals-triangle](https://github.com/Abhinav1527/LEETCODE/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Abhinav1527/LEETCODE/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/Abhinav1527/LEETCODE/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/Abhinav1527/LEETCODE/tree/master/0136-single-number) |
@@ -336,6 +337,7 @@ If you found this repository useful, don't forget to ⭐ the repository!
 | [0005-longest-palindromic-substring](https://github.com/Abhinav1527/LEETCODE/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/Abhinav1527/LEETCODE/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/Abhinav1527/LEETCODE/tree/master/0053-maximum-subarray) |
+| [0118-pascals-triangle](https://github.com/Abhinav1527/LEETCODE/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Abhinav1527/LEETCODE/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0131-palindrome-partitioning](https://github.com/Abhinav1527/LEETCODE/tree/master/0131-palindrome-partitioning) |
 | [0877-stone-game](https://github.com/Abhinav1527/LEETCODE/tree/master/0877-stone-game) |
