@@ -495,5 +495,6 @@ If you found this repository useful, don't forget to ⭐ the repository!
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Abhinav1527/LEETCODE/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Abhinav1527/LEETCODE/tree/master/0229-majority-element-ii) |
 <!---LeetCode Topics End-->
