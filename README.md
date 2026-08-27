@@ -114,6 +114,7 @@ If you found this repository useful, don't forget to ⭐ the repository!
 | [0189-rotate-array](https://github.com/Abhinav1527/LEETCODE/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/Abhinav1527/LEETCODE/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/Abhinav1527/LEETCODE/tree/master/0219-contains-duplicate-ii) |
+| [0229-majority-element-ii](https://github.com/Abhinav1527/LEETCODE/tree/master/0229-majority-element-ii) |
 | [0239-sliding-window-maximum](https://github.com/Abhinav1527/LEETCODE/tree/master/0239-sliding-window-maximum) |
 | [0268-missing-number](https://github.com/Abhinav1527/LEETCODE/tree/master/0268-missing-number) |
 | [0485-max-consecutive-ones](https://github.com/Abhinav1527/LEETCODE/tree/master/0485-max-consecutive-ones) |
@@ -175,6 +176,7 @@ If you found this repository useful, don't forget to ⭐ the repository!
 | [0128-longest-consecutive-sequence](https://github.com/Abhinav1527/LEETCODE/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/Abhinav1527/LEETCODE/tree/master/0169-majority-element) |
 | [0219-contains-duplicate-ii](https://github.com/Abhinav1527/LEETCODE/tree/master/0219-contains-duplicate-ii) |
+| [0229-majority-element-ii](https://github.com/Abhinav1527/LEETCODE/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/Abhinav1527/LEETCODE/tree/master/0268-missing-number) |
 | [0451-sort-characters-by-frequency](https://github.com/Abhinav1527/LEETCODE/tree/master/0451-sort-characters-by-frequency) |
 | [0491-non-decreasing-subsequences](https://github.com/Abhinav1527/LEETCODE/tree/master/0491-non-decreasing-subsequences) |
@@ -210,6 +212,7 @@ If you found this repository useful, don't forget to ⭐ the repository!
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Abhinav1527/LEETCODE/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/Abhinav1527/LEETCODE/tree/master/0229-majority-element-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/Abhinav1527/LEETCODE/tree/master/0451-sort-characters-by-frequency) |
 | [2029-stone-game-ix](https://github.com/Abhinav1527/LEETCODE/tree/master/2029-stone-game-ix) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Abhinav1527/LEETCODE/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -249,6 +252,7 @@ If you found this repository useful, don't forget to ⭐ the repository!
 | [0047-permutations-ii](https://github.com/Abhinav1527/LEETCODE/tree/master/0047-permutations-ii) |
 | [0075-sort-colors](https://github.com/Abhinav1527/LEETCODE/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/Abhinav1527/LEETCODE/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/Abhinav1527/LEETCODE/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/Abhinav1527/LEETCODE/tree/master/0268-missing-number) |
 | [0451-sort-characters-by-frequency](https://github.com/Abhinav1527/LEETCODE/tree/master/0451-sort-characters-by-frequency) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Abhinav1527/LEETCODE/tree/master/0628-maximum-product-of-three-numbers) |
@@ -488,4 +492,8 @@ If you found this repository useful, don't forget to ⭐ the repository!
 |  |
 | ------- |
 | [0523-continuous-subarray-sum](https://github.com/Abhinav1527/LEETCODE/tree/master/0523-continuous-subarray-sum) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0229-majority-element-ii](https://github.com/Abhinav1527/LEETCODE/tree/master/0229-majority-element-ii) |
 <!---LeetCode Topics End-->
