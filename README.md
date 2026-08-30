@@ -138,6 +138,7 @@ If you found this repository useful, don't forget to ⭐ the repository!
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Abhinav1527/LEETCODE/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Abhinav1527/LEETCODE/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/Abhinav1527/LEETCODE/tree/master/2029-stone-game-ix) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/Abhinav1527/LEETCODE/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Abhinav1527/LEETCODE/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2326-spiral-matrix-iv](https://github.com/Abhinav1527/LEETCODE/tree/master/2326-spiral-matrix-iv) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Abhinav1527/LEETCODE/tree/master/2553-separate-the-digits-in-an-array) |
@@ -283,6 +284,7 @@ If you found this repository useful, don't forget to ⭐ the repository!
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/Abhinav1527/LEETCODE/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Abhinav1527/LEETCODE/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2029-stone-game-ix](https://github.com/Abhinav1527/LEETCODE/tree/master/2029-stone-game-ix) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/Abhinav1527/LEETCODE/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Abhinav1527/LEETCODE/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Abhinav1527/LEETCODE/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Enumeration
