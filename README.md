@@ -122,6 +122,7 @@ If you found this repository useful, don't forget to ⭐ the repository!
 | [0485-max-consecutive-ones](https://github.com/Abhinav1527/LEETCODE/tree/master/0485-max-consecutive-ones) |
 | [0491-non-decreasing-subsequences](https://github.com/Abhinav1527/LEETCODE/tree/master/0491-non-decreasing-subsequences) |
 | [0523-continuous-subarray-sum](https://github.com/Abhinav1527/LEETCODE/tree/master/0523-continuous-subarray-sum) |
+| [0525-contiguous-array](https://github.com/Abhinav1527/LEETCODE/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Abhinav1527/LEETCODE/tree/master/0560-subarray-sum-equals-k) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Abhinav1527/LEETCODE/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/Abhinav1527/LEETCODE/tree/master/0877-stone-game) |
@@ -187,6 +188,7 @@ If you found this repository useful, don't forget to ⭐ the repository!
 | [0454-4sum-ii](https://github.com/Abhinav1527/LEETCODE/tree/master/0454-4sum-ii) |
 | [0491-non-decreasing-subsequences](https://github.com/Abhinav1527/LEETCODE/tree/master/0491-non-decreasing-subsequences) |
 | [0523-continuous-subarray-sum](https://github.com/Abhinav1527/LEETCODE/tree/master/0523-continuous-subarray-sum) |
+| [0525-contiguous-array](https://github.com/Abhinav1527/LEETCODE/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Abhinav1527/LEETCODE/tree/master/0560-subarray-sum-equals-k) |
 | [0930-binary-subarrays-with-sum](https://github.com/Abhinav1527/LEETCODE/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Abhinav1527/LEETCODE/tree/master/0974-subarray-sums-divisible-by-k) |
@@ -230,6 +232,7 @@ If you found this repository useful, don't forget to ⭐ the repository!
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Abhinav1527/LEETCODE/tree/master/0209-minimum-size-subarray-sum) |
 | [0523-continuous-subarray-sum](https://github.com/Abhinav1527/LEETCODE/tree/master/0523-continuous-subarray-sum) |
+| [0525-contiguous-array](https://github.com/Abhinav1527/LEETCODE/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Abhinav1527/LEETCODE/tree/master/0560-subarray-sum-equals-k) |
 | [0930-binary-subarrays-with-sum](https://github.com/Abhinav1527/LEETCODE/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Abhinav1527/LEETCODE/tree/master/0974-subarray-sums-divisible-by-k) |
