@@ -494,6 +494,7 @@ If you found this repository useful, don't forget to ⭐ the repository!
 ## Linked List
 |  |
 | ------- |
+| [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/Abhinav1527/LEETCODE/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 | [2326-spiral-matrix-iv](https://github.com/Abhinav1527/LEETCODE/tree/master/2326-spiral-matrix-iv) |
 ## Pigeonhole Principle
 |  |
