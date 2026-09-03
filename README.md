@@ -343,6 +343,7 @@ If you found this repository useful, don't forget to ⭐ the repository!
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Abhinav1527/LEETCODE/tree/master/0002-add-two-numbers) |
 | [0013-roman-to-integer](https://github.com/Abhinav1527/LEETCODE/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/Abhinav1527/LEETCODE/tree/master/0048-rotate-image) |
 | [0060-permutation-sequence](https://github.com/Abhinav1527/LEETCODE/tree/master/0060-permutation-sequence) |
@@ -512,10 +513,12 @@ If you found this repository useful, don't forget to ⭐ the repository!
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Abhinav1527/LEETCODE/tree/master/0002-add-two-numbers) |
 | [0060-permutation-sequence](https://github.com/Abhinav1527/LEETCODE/tree/master/0060-permutation-sequence) |
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Abhinav1527/LEETCODE/tree/master/0002-add-two-numbers) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/Abhinav1527/LEETCODE/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 | [2326-spiral-matrix-iv](https://github.com/Abhinav1527/LEETCODE/tree/master/2326-spiral-matrix-iv) |
 ## Pigeonhole Principle
