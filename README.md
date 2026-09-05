@@ -165,6 +165,7 @@ If you found this repository useful, don't forget to ⭐ the repository!
 | [3875-construct-uniform-parity-array-i](https://github.com/Abhinav1527/LEETCODE/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Abhinav1527/LEETCODE/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3903-smallest-stable-index-i](https://github.com/Abhinav1527/LEETCODE/tree/master/3903-smallest-stable-index-i) |
+| [3904-smallest-stable-index-ii](https://github.com/Abhinav1527/LEETCODE/tree/master/3904-smallest-stable-index-ii) |
 ## Simulation
 |  |
 | ------- |
@@ -247,6 +248,7 @@ If you found this repository useful, don't forget to ⭐ the repository!
 | [2588-count-the-number-of-beautiful-subarrays](https://github.com/Abhinav1527/LEETCODE/tree/master/2588-count-the-number-of-beautiful-subarrays) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Abhinav1527/LEETCODE/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3903-smallest-stable-index-i](https://github.com/Abhinav1527/LEETCODE/tree/master/3903-smallest-stable-index-i) |
+| [3904-smallest-stable-index-ii](https://github.com/Abhinav1527/LEETCODE/tree/master/3904-smallest-stable-index-ii) |
 ## String
 |  |
 | ------- |
