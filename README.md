@@ -130,6 +130,7 @@ If you found this repository useful, don't forget to ⭐ the repository!
 | [0877-stone-game](https://github.com/Abhinav1527/LEETCODE/tree/master/0877-stone-game) |
 | [0930-binary-subarrays-with-sum](https://github.com/Abhinav1527/LEETCODE/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Abhinav1527/LEETCODE/tree/master/0974-subarray-sums-divisible-by-k) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Abhinav1527/LEETCODE/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Abhinav1527/LEETCODE/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Abhinav1527/LEETCODE/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1288-remove-covered-intervals](https://github.com/Abhinav1527/LEETCODE/tree/master/1288-remove-covered-intervals) |
@@ -411,6 +412,7 @@ If you found this repository useful, don't forget to ⭐ the repository!
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/Abhinav1527/LEETCODE/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Abhinav1527/LEETCODE/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/Abhinav1527/LEETCODE/tree/master/0938-range-sum-of-bst) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Abhinav1527/LEETCODE/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -425,10 +427,12 @@ If you found this repository useful, don't forget to ⭐ the repository!
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/Abhinav1527/LEETCODE/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Abhinav1527/LEETCODE/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/Abhinav1527/LEETCODE/tree/master/0938-range-sum-of-bst) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Abhinav1527/LEETCODE/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Stack
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Abhinav1527/LEETCODE/tree/master/0020-valid-parentheses) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Abhinav1527/LEETCODE/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Number Theory
 |  |
 | ------- |
@@ -551,8 +555,13 @@ If you found this repository useful, don't forget to ⭐ the repository!
 | ------- |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Abhinav1527/LEETCODE/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/Abhinav1527/LEETCODE/tree/master/0938-range-sum-of-bst) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Abhinav1527/LEETCODE/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0938-range-sum-of-bst](https://github.com/Abhinav1527/LEETCODE/tree/master/0938-range-sum-of-bst) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Abhinav1527/LEETCODE/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 <!---LeetCode Topics End-->
