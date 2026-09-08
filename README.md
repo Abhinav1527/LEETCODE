@@ -409,6 +409,7 @@ If you found this repository useful, don't forget to ⭐ the repository!
 | [0102-binary-tree-level-order-traversal](https://github.com/Abhinav1527/LEETCODE/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Abhinav1527/LEETCODE/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/Abhinav1527/LEETCODE/tree/master/0107-binary-tree-level-order-traversal-ii) |
+| [0701-insert-into-a-binary-search-tree](https://github.com/Abhinav1527/LEETCODE/tree/master/0701-insert-into-a-binary-search-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -421,6 +422,7 @@ If you found this repository useful, don't forget to ⭐ the repository!
 | [0102-binary-tree-level-order-traversal](https://github.com/Abhinav1527/LEETCODE/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Abhinav1527/LEETCODE/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/Abhinav1527/LEETCODE/tree/master/0107-binary-tree-level-order-traversal-ii) |
+| [0701-insert-into-a-binary-search-tree](https://github.com/Abhinav1527/LEETCODE/tree/master/0701-insert-into-a-binary-search-tree) |
 ## Stack
 |  |
 | ------- |
@@ -542,4 +544,8 @@ If you found this repository useful, don't forget to ⭐ the repository!
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/Abhinav1527/LEETCODE/tree/master/0056-merge-intervals) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0701-insert-into-a-binary-search-tree](https://github.com/Abhinav1527/LEETCODE/tree/master/0701-insert-into-a-binary-search-tree) |
 <!---LeetCode Topics End-->
