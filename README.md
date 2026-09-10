@@ -414,6 +414,7 @@ If you found this repository useful, don't forget to ⭐ the repository!
 | [0701-insert-into-a-binary-search-tree](https://github.com/Abhinav1527/LEETCODE/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/Abhinav1527/LEETCODE/tree/master/0938-range-sum-of-bst) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Abhinav1527/LEETCODE/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Abhinav1527/LEETCODE/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -430,6 +431,7 @@ If you found this repository useful, don't forget to ⭐ the repository!
 | [0701-insert-into-a-binary-search-tree](https://github.com/Abhinav1527/LEETCODE/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/Abhinav1527/LEETCODE/tree/master/0938-range-sum-of-bst) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Abhinav1527/LEETCODE/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Abhinav1527/LEETCODE/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Stack
 |  |
 | ------- |
@@ -564,6 +566,7 @@ If you found this repository useful, don't forget to ⭐ the repository!
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Abhinav1527/LEETCODE/tree/master/0098-validate-binary-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/Abhinav1527/LEETCODE/tree/master/0938-range-sum-of-bst) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Abhinav1527/LEETCODE/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Monotonic Stack
 |  |
 | ------- |
