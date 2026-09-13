@@ -34,7 +34,6 @@ This repository contains my solutions to LeetCode problems as I prepare for codi
 ## 💻 Languages
 
 - Java
-- Python *(coming soon)*
 
 ---
 
