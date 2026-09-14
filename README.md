@@ -358,6 +358,7 @@ If you found this repository useful, don't forget to ⭐ the repository!
 | [0048-rotate-image](https://github.com/Abhinav1527/LEETCODE/tree/master/0048-rotate-image) |
 | [0060-permutation-sequence](https://github.com/Abhinav1527/LEETCODE/tree/master/0060-permutation-sequence) |
 | [0189-rotate-array](https://github.com/Abhinav1527/LEETCODE/tree/master/0189-rotate-array) |
+| [0223-rectangle-area](https://github.com/Abhinav1527/LEETCODE/tree/master/0223-rectangle-area) |
 | [0268-missing-number](https://github.com/Abhinav1527/LEETCODE/tree/master/0268-missing-number) |
 | [0523-continuous-subarray-sum](https://github.com/Abhinav1527/LEETCODE/tree/master/0523-continuous-subarray-sum) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Abhinav1527/LEETCODE/tree/master/0628-maximum-product-of-three-numbers) |
@@ -589,5 +590,6 @@ If you found this repository useful, don't forget to ⭐ the repository!
 ## Geometry
 |  |
 | ------- |
+| [0223-rectangle-area](https://github.com/Abhinav1527/LEETCODE/tree/master/0223-rectangle-area) |
 | [0836-rectangle-overlap](https://github.com/Abhinav1527/LEETCODE/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
