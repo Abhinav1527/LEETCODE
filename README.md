@@ -137,6 +137,7 @@ If you found this repository useful, don't forget to ⭐ the repository!
 | [1288-remove-covered-intervals](https://github.com/Abhinav1527/LEETCODE/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/Abhinav1527/LEETCODE/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Abhinav1527/LEETCODE/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Abhinav1527/LEETCODE/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1552-magnetic-force-between-two-balls](https://github.com/Abhinav1527/LEETCODE/tree/master/1552-magnetic-force-between-two-balls) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Abhinav1527/LEETCODE/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Abhinav1527/LEETCODE/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -204,6 +205,7 @@ If you found this repository useful, don't forget to ⭐ the repository!
 | [0974-subarray-sums-divisible-by-k](https://github.com/Abhinav1527/LEETCODE/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1331-rank-transform-of-an-array](https://github.com/Abhinav1527/LEETCODE/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Abhinav1527/LEETCODE/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Abhinav1527/LEETCODE/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Abhinav1527/LEETCODE/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2588-count-the-number-of-beautiful-subarrays](https://github.com/Abhinav1527/LEETCODE/tree/master/2588-count-the-number-of-beautiful-subarrays) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Abhinav1527/LEETCODE/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -346,6 +348,7 @@ If you found this repository useful, don't forget to ⭐ the repository!
 | [0643-maximum-average-subarray-i](https://github.com/Abhinav1527/LEETCODE/tree/master/0643-maximum-average-subarray-i) |
 | [0930-binary-subarrays-with-sum](https://github.com/Abhinav1527/LEETCODE/tree/master/0930-binary-subarrays-with-sum) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Abhinav1527/LEETCODE/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Abhinav1527/LEETCODE/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Abhinav1527/LEETCODE/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Abhinav1527/LEETCODE/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Abhinav1527/LEETCODE/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -393,6 +396,7 @@ If you found this repository useful, don't forget to ⭐ the repository!
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Abhinav1527/LEETCODE/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0131-palindrome-partitioning](https://github.com/Abhinav1527/LEETCODE/tree/master/0131-palindrome-partitioning) |
 | [0877-stone-game](https://github.com/Abhinav1527/LEETCODE/tree/master/0877-stone-game) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Abhinav1527/LEETCODE/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [2063-vowels-of-all-substrings](https://github.com/Abhinav1527/LEETCODE/tree/master/2063-vowels-of-all-substrings) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Abhinav1527/LEETCODE/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Combinatorics
@@ -466,6 +470,7 @@ If you found this repository useful, don't forget to ⭐ the repository!
 | [0268-missing-number](https://github.com/Abhinav1527/LEETCODE/tree/master/0268-missing-number) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Abhinav1527/LEETCODE/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Abhinav1527/LEETCODE/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Abhinav1527/LEETCODE/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1552-magnetic-force-between-two-balls](https://github.com/Abhinav1527/LEETCODE/tree/master/1552-magnetic-force-between-two-balls) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Abhinav1527/LEETCODE/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## Bit Manipulation
