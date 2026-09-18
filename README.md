@@ -153,6 +153,7 @@ If you found this repository useful, don't forget to ⭐ the repository!
 | [2326-spiral-matrix-iv](https://github.com/Abhinav1527/LEETCODE/tree/master/2326-spiral-matrix-iv) |
 | [2395-find-subarrays-with-equal-sum](https://github.com/Abhinav1527/LEETCODE/tree/master/2395-find-subarrays-with-equal-sum) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Abhinav1527/LEETCODE/tree/master/2553-separate-the-digits-in-an-array) |
+| [2559-count-vowel-strings-in-ranges](https://github.com/Abhinav1527/LEETCODE/tree/master/2559-count-vowel-strings-in-ranges) |
 | [2588-count-the-number-of-beautiful-subarrays](https://github.com/Abhinav1527/LEETCODE/tree/master/2588-count-the-number-of-beautiful-subarrays) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Abhinav1527/LEETCODE/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Abhinav1527/LEETCODE/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -253,6 +254,7 @@ If you found this repository useful, don't forget to ⭐ the repository!
 | [0930-binary-subarrays-with-sum](https://github.com/Abhinav1527/LEETCODE/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Abhinav1527/LEETCODE/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Abhinav1527/LEETCODE/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [2559-count-vowel-strings-in-ranges](https://github.com/Abhinav1527/LEETCODE/tree/master/2559-count-vowel-strings-in-ranges) |
 | [2588-count-the-number-of-beautiful-subarrays](https://github.com/Abhinav1527/LEETCODE/tree/master/2588-count-the-number-of-beautiful-subarrays) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Abhinav1527/LEETCODE/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3903-smallest-stable-index-i](https://github.com/Abhinav1527/LEETCODE/tree/master/3903-smallest-stable-index-i) |
@@ -273,6 +275,7 @@ If you found this repository useful, don't forget to ⭐ the repository!
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Abhinav1527/LEETCODE/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2063-vowels-of-all-substrings](https://github.com/Abhinav1527/LEETCODE/tree/master/2063-vowels-of-all-substrings) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Abhinav1527/LEETCODE/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
+| [2559-count-vowel-strings-in-ranges](https://github.com/Abhinav1527/LEETCODE/tree/master/2559-count-vowel-strings-in-ranges) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Abhinav1527/LEETCODE/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Abhinav1527/LEETCODE/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Abhinav1527/LEETCODE/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
