@@ -157,6 +157,7 @@ If you found this repository useful, don't forget to ⭐ the repository!
 | [2553-separate-the-digits-in-an-array](https://github.com/Abhinav1527/LEETCODE/tree/master/2553-separate-the-digits-in-an-array) |
 | [2559-count-vowel-strings-in-ranges](https://github.com/Abhinav1527/LEETCODE/tree/master/2559-count-vowel-strings-in-ranges) |
 | [2588-count-the-number-of-beautiful-subarrays](https://github.com/Abhinav1527/LEETCODE/tree/master/2588-count-the-number-of-beautiful-subarrays) |
+| [2932-maximum-strong-pair-xor-i](https://github.com/Abhinav1527/LEETCODE/tree/master/2932-maximum-strong-pair-xor-i) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Abhinav1527/LEETCODE/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Abhinav1527/LEETCODE/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Abhinav1527/LEETCODE/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
@@ -215,6 +216,7 @@ If you found this repository useful, don't forget to ⭐ the repository!
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Abhinav1527/LEETCODE/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2395-find-subarrays-with-equal-sum](https://github.com/Abhinav1527/LEETCODE/tree/master/2395-find-subarrays-with-equal-sum) |
 | [2588-count-the-number-of-beautiful-subarrays](https://github.com/Abhinav1527/LEETCODE/tree/master/2588-count-the-number-of-beautiful-subarrays) |
+| [2932-maximum-strong-pair-xor-i](https://github.com/Abhinav1527/LEETCODE/tree/master/2932-maximum-strong-pair-xor-i) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Abhinav1527/LEETCODE/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Abhinav1527/LEETCODE/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Abhinav1527/LEETCODE/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -367,6 +369,7 @@ If you found this repository useful, don't forget to ⭐ the repository!
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Abhinav1527/LEETCODE/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Abhinav1527/LEETCODE/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Abhinav1527/LEETCODE/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
+| [2932-maximum-strong-pair-xor-i](https://github.com/Abhinav1527/LEETCODE/tree/master/2932-maximum-strong-pair-xor-i) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Abhinav1527/LEETCODE/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Abhinav1527/LEETCODE/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Monotonic Queue
@@ -501,6 +504,7 @@ If you found this repository useful, don't forget to ⭐ the repository!
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Abhinav1527/LEETCODE/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/Abhinav1527/LEETCODE/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
 | [2588-count-the-number-of-beautiful-subarrays](https://github.com/Abhinav1527/LEETCODE/tree/master/2588-count-the-number-of-beautiful-subarrays) |
+| [2932-maximum-strong-pair-xor-i](https://github.com/Abhinav1527/LEETCODE/tree/master/2932-maximum-strong-pair-xor-i) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Abhinav1527/LEETCODE/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Abhinav1527/LEETCODE/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Abhinav1527/LEETCODE/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
@@ -627,4 +631,5 @@ If you found this repository useful, don't forget to ⭐ the repository!
 |  |
 | ------- |
 | [0692-top-k-frequent-words](https://github.com/Abhinav1527/LEETCODE/tree/master/0692-top-k-frequent-words) |
+| [2932-maximum-strong-pair-xor-i](https://github.com/Abhinav1527/LEETCODE/tree/master/2932-maximum-strong-pair-xor-i) |
 <!---LeetCode Topics End-->
