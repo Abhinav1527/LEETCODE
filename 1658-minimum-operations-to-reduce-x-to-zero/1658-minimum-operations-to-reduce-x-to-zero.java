@@ -2,36 +2,28 @@ class Solution {
     public int minOperations(int[] nums, int x) {
         int n = nums.length;
         int total = 0;
-        for(int num : nums){
-            total += num;
+        for(int i=0;i<n;i++){
+            total += nums[i];
         }
-        int rem = total - x;
-        if(rem == 0){
-            return n;
-        }
-
-        int len = MinLen(nums,n,rem);
-
-        if(len == 0){
+        int i = 0;
+        int target = total - x;
+        if(target< 0){
             return -1;
         }
-        return n - len;
-    }
-    public int MinLen(int[] nums, int n, int k){
-        Map<Integer,Integer> hm = new HashMap<>();
-        int sum = 0;
-        int maxLen = 0;
-        hm.put(0,-1);
-        for(int i=0;i<n;i++){
-            sum += nums[i];
-            int tar = sum - k;
-            if(hm.containsKey(tar)){
-                maxLen = Math.max(maxLen,i-hm.get(tar));
+        int maxLen = -1;
+        int cur = 0;
+        for(int j=0;j<n;j++){
+            cur += nums[j];
+            while(i<=j && cur>target) {
+                cur -= nums[i++];
             }
-            if(!hm.containsKey(sum)){
-                hm.put(sum,i);
+            if(cur == target) {
+                maxLen = Math.max(maxLen,j-i+1);
             }
         }
-        return maxLen;
+        if(maxLen == -1) {
+            return -1;
+        }
+        return n-maxLen;
     }
 }
