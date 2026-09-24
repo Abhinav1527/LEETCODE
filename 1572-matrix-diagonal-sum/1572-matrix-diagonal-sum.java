@@ -4,16 +4,11 @@ class Solution {
         int sum = 0;
         for(int i=0;i<n;i++) {
             sum += mat[i][i];
-        }
-        int row = 0;
-        int col = n-1;
-        for(int i=0;i<n;i++) {
-            sum += mat[row++][col--];
+            sum += mat[i][n-i-1];
         }
 
         if(n%2!=0) {
-            int idx = (n-1)/2;
-            sum = sum - mat[idx][idx];
+            sum -= mat[n/2][n/2];
         }
         return sum;
     }
