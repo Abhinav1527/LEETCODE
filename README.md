@@ -152,6 +152,7 @@ If you found this repository useful, don't forget to ⭐ the repository!
 | [2029-stone-game-ix](https://github.com/Abhinav1527/LEETCODE/tree/master/2029-stone-game-ix) |
 | [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/Abhinav1527/LEETCODE/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Abhinav1527/LEETCODE/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/Abhinav1527/LEETCODE/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Abhinav1527/LEETCODE/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2326-spiral-matrix-iv](https://github.com/Abhinav1527/LEETCODE/tree/master/2326-spiral-matrix-iv) |
 | [2395-find-subarrays-with-equal-sum](https://github.com/Abhinav1527/LEETCODE/tree/master/2395-find-subarrays-with-equal-sum) |
@@ -216,6 +217,7 @@ If you found this repository useful, don't forget to ⭐ the repository!
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Abhinav1527/LEETCODE/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Abhinav1527/LEETCODE/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Abhinav1527/LEETCODE/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/Abhinav1527/LEETCODE/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
 | [2395-find-subarrays-with-equal-sum](https://github.com/Abhinav1527/LEETCODE/tree/master/2395-find-subarrays-with-equal-sum) |
 | [2588-count-the-number-of-beautiful-subarrays](https://github.com/Abhinav1527/LEETCODE/tree/master/2588-count-the-number-of-beautiful-subarrays) |
 | [2932-maximum-strong-pair-xor-i](https://github.com/Abhinav1527/LEETCODE/tree/master/2932-maximum-strong-pair-xor-i) |
@@ -559,6 +561,7 @@ If you found this repository useful, don't forget to ⭐ the repository!
 | [0835-image-overlap](https://github.com/Abhinav1527/LEETCODE/tree/master/0835-image-overlap) |
 | [1572-matrix-diagonal-sum](https://github.com/Abhinav1527/LEETCODE/tree/master/1572-matrix-diagonal-sum) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Abhinav1527/LEETCODE/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
+| [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/Abhinav1527/LEETCODE/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
 | [2326-spiral-matrix-iv](https://github.com/Abhinav1527/LEETCODE/tree/master/2326-spiral-matrix-iv) |
 ## Dancing Links
 |  |
