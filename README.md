@@ -157,6 +157,7 @@ If you found this repository useful, don't forget to ⭐ the repository!
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Abhinav1527/LEETCODE/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/Abhinav1527/LEETCODE/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Abhinav1527/LEETCODE/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2302-count-subarrays-with-score-less-than-k](https://github.com/Abhinav1527/LEETCODE/tree/master/2302-count-subarrays-with-score-less-than-k) |
 | [2326-spiral-matrix-iv](https://github.com/Abhinav1527/LEETCODE/tree/master/2326-spiral-matrix-iv) |
 | [2395-find-subarrays-with-equal-sum](https://github.com/Abhinav1527/LEETCODE/tree/master/2395-find-subarrays-with-equal-sum) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Abhinav1527/LEETCODE/tree/master/2553-separate-the-digits-in-an-array) |
@@ -269,6 +270,7 @@ If you found this repository useful, don't forget to ⭐ the repository!
 | [0930-binary-subarrays-with-sum](https://github.com/Abhinav1527/LEETCODE/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Abhinav1527/LEETCODE/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Abhinav1527/LEETCODE/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [2302-count-subarrays-with-score-less-than-k](https://github.com/Abhinav1527/LEETCODE/tree/master/2302-count-subarrays-with-score-less-than-k) |
 | [2559-count-vowel-strings-in-ranges](https://github.com/Abhinav1527/LEETCODE/tree/master/2559-count-vowel-strings-in-ranges) |
 | [2588-count-the-number-of-beautiful-subarrays](https://github.com/Abhinav1527/LEETCODE/tree/master/2588-count-the-number-of-beautiful-subarrays) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Abhinav1527/LEETCODE/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -377,6 +379,7 @@ If you found this repository useful, don't forget to ⭐ the repository!
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Abhinav1527/LEETCODE/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Abhinav1527/LEETCODE/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Abhinav1527/LEETCODE/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [2302-count-subarrays-with-score-less-than-k](https://github.com/Abhinav1527/LEETCODE/tree/master/2302-count-subarrays-with-score-less-than-k) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Abhinav1527/LEETCODE/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2932-maximum-strong-pair-xor-i](https://github.com/Abhinav1527/LEETCODE/tree/master/2932-maximum-strong-pair-xor-i) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Abhinav1527/LEETCODE/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -505,6 +508,7 @@ If you found this repository useful, don't forget to ⭐ the repository!
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Abhinav1527/LEETCODE/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1552-magnetic-force-between-two-balls](https://github.com/Abhinav1527/LEETCODE/tree/master/1552-magnetic-force-between-two-balls) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Abhinav1527/LEETCODE/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [2302-count-subarrays-with-score-less-than-k](https://github.com/Abhinav1527/LEETCODE/tree/master/2302-count-subarrays-with-score-less-than-k) |
 ## Bit Manipulation
 |  |
 | ------- |
