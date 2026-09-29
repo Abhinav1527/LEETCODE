@@ -124,6 +124,7 @@ If you found this repository useful, don't forget to ⭐ the repository!
 | [0454-4sum-ii](https://github.com/Abhinav1527/LEETCODE/tree/master/0454-4sum-ii) |
 | [0485-max-consecutive-ones](https://github.com/Abhinav1527/LEETCODE/tree/master/0485-max-consecutive-ones) |
 | [0491-non-decreasing-subsequences](https://github.com/Abhinav1527/LEETCODE/tree/master/0491-non-decreasing-subsequences) |
+| [0494-target-sum](https://github.com/Abhinav1527/LEETCODE/tree/master/0494-target-sum) |
 | [0523-continuous-subarray-sum](https://github.com/Abhinav1527/LEETCODE/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/Abhinav1527/LEETCODE/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Abhinav1527/LEETCODE/tree/master/0560-subarray-sum-equals-k) |
@@ -437,6 +438,7 @@ If you found this repository useful, don't forget to ⭐ the repository!
 | [0131-palindrome-partitioning](https://github.com/Abhinav1527/LEETCODE/tree/master/0131-palindrome-partitioning) |
 | [0198-house-robber](https://github.com/Abhinav1527/LEETCODE/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Abhinav1527/LEETCODE/tree/master/0213-house-robber-ii) |
+| [0494-target-sum](https://github.com/Abhinav1527/LEETCODE/tree/master/0494-target-sum) |
 | [0877-stone-game](https://github.com/Abhinav1527/LEETCODE/tree/master/0877-stone-game) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Abhinav1527/LEETCODE/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [2063-vowels-of-all-substrings](https://github.com/Abhinav1527/LEETCODE/tree/master/2063-vowels-of-all-substrings) |
@@ -557,6 +559,7 @@ If you found this repository useful, don't forget to ⭐ the repository!
 | [0090-subsets-ii](https://github.com/Abhinav1527/LEETCODE/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/Abhinav1527/LEETCODE/tree/master/0131-palindrome-partitioning) |
 | [0491-non-decreasing-subsequences](https://github.com/Abhinav1527/LEETCODE/tree/master/0491-non-decreasing-subsequences) |
+| [0494-target-sum](https://github.com/Abhinav1527/LEETCODE/tree/master/0494-target-sum) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Abhinav1527/LEETCODE/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Abhinav1527/LEETCODE/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/Abhinav1527/LEETCODE/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
@@ -660,4 +663,12 @@ If you found this repository useful, don't forget to ⭐ the repository!
 | ------- |
 | [0692-top-k-frequent-words](https://github.com/Abhinav1527/LEETCODE/tree/master/0692-top-k-frequent-words) |
 | [2932-maximum-strong-pair-xor-i](https://github.com/Abhinav1527/LEETCODE/tree/master/2932-maximum-strong-pair-xor-i) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0494-target-sum](https://github.com/Abhinav1527/LEETCODE/tree/master/0494-target-sum) |
+## 0-1 Knapsack
+|  |
+| ------- |
+| [0494-target-sum](https://github.com/Abhinav1527/LEETCODE/tree/master/0494-target-sum) |
 <!---LeetCode Topics End-->
