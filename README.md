@@ -570,6 +570,7 @@ If you found this repository useful, don't forget to ⭐ the repository!
 ## Bracket Sequences
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Abhinav1527/LEETCODE/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Abhinav1527/LEETCODE/tree/master/0022-generate-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Abhinav1527/LEETCODE/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 ## Algorithm X
