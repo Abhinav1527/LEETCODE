@@ -138,6 +138,7 @@ If you found this repository useful, don't forget to ⭐ the repository!
 | [0974-subarray-sums-divisible-by-k](https://github.com/Abhinav1527/LEETCODE/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Abhinav1527/LEETCODE/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Abhinav1527/LEETCODE/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1049-last-stone-weight-ii](https://github.com/Abhinav1527/LEETCODE/tree/master/1049-last-stone-weight-ii) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Abhinav1527/LEETCODE/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1288-remove-covered-intervals](https://github.com/Abhinav1527/LEETCODE/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/Abhinav1527/LEETCODE/tree/master/1331-rank-transform-of-an-array) |
@@ -448,6 +449,7 @@ If you found this repository useful, don't forget to ⭐ the repository!
 | [0213-house-robber-ii](https://github.com/Abhinav1527/LEETCODE/tree/master/0213-house-robber-ii) |
 | [0494-target-sum](https://github.com/Abhinav1527/LEETCODE/tree/master/0494-target-sum) |
 | [0877-stone-game](https://github.com/Abhinav1527/LEETCODE/tree/master/0877-stone-game) |
+| [1049-last-stone-weight-ii](https://github.com/Abhinav1527/LEETCODE/tree/master/1049-last-stone-weight-ii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Abhinav1527/LEETCODE/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [2063-vowels-of-all-substrings](https://github.com/Abhinav1527/LEETCODE/tree/master/2063-vowels-of-all-substrings) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Abhinav1527/LEETCODE/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
@@ -677,8 +679,10 @@ If you found this repository useful, don't forget to ⭐ the repository!
 |  |
 | ------- |
 | [0494-target-sum](https://github.com/Abhinav1527/LEETCODE/tree/master/0494-target-sum) |
+| [1049-last-stone-weight-ii](https://github.com/Abhinav1527/LEETCODE/tree/master/1049-last-stone-weight-ii) |
 ## 0-1 Knapsack
 |  |
 | ------- |
 | [0494-target-sum](https://github.com/Abhinav1527/LEETCODE/tree/master/0494-target-sum) |
+| [1049-last-stone-weight-ii](https://github.com/Abhinav1527/LEETCODE/tree/master/1049-last-stone-weight-ii) |
 <!---LeetCode Topics End-->
