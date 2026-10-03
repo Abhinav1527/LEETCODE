@@ -486,6 +486,7 @@ If you found this repository useful, don't forget to ⭐ the repository!
 | [0102-binary-tree-level-order-traversal](https://github.com/Abhinav1527/LEETCODE/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Abhinav1527/LEETCODE/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/Abhinav1527/LEETCODE/tree/master/0107-binary-tree-level-order-traversal-ii) |
+| [0112-path-sum](https://github.com/Abhinav1527/LEETCODE/tree/master/0112-path-sum) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Abhinav1527/LEETCODE/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/Abhinav1527/LEETCODE/tree/master/0938-range-sum-of-bst) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Abhinav1527/LEETCODE/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
@@ -498,6 +499,7 @@ If you found this repository useful, don't forget to ⭐ the repository!
 | [0102-binary-tree-level-order-traversal](https://github.com/Abhinav1527/LEETCODE/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Abhinav1527/LEETCODE/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/Abhinav1527/LEETCODE/tree/master/0107-binary-tree-level-order-traversal-ii) |
+| [0112-path-sum](https://github.com/Abhinav1527/LEETCODE/tree/master/0112-path-sum) |
 ## Binary Tree
 |  |
 | ------- |
@@ -507,6 +509,7 @@ If you found this repository useful, don't forget to ⭐ the repository!
 | [0102-binary-tree-level-order-traversal](https://github.com/Abhinav1527/LEETCODE/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Abhinav1527/LEETCODE/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/Abhinav1527/LEETCODE/tree/master/0107-binary-tree-level-order-traversal-ii) |
+| [0112-path-sum](https://github.com/Abhinav1527/LEETCODE/tree/master/0112-path-sum) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Abhinav1527/LEETCODE/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/Abhinav1527/LEETCODE/tree/master/0938-range-sum-of-bst) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Abhinav1527/LEETCODE/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
@@ -664,6 +667,7 @@ If you found this repository useful, don't forget to ⭐ the repository!
 | [0098-validate-binary-search-tree](https://github.com/Abhinav1527/LEETCODE/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/Abhinav1527/LEETCODE/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Abhinav1527/LEETCODE/tree/master/0101-symmetric-tree) |
+| [0112-path-sum](https://github.com/Abhinav1527/LEETCODE/tree/master/0112-path-sum) |
 | [0938-range-sum-of-bst](https://github.com/Abhinav1527/LEETCODE/tree/master/0938-range-sum-of-bst) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Abhinav1527/LEETCODE/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Monotonic Stack
