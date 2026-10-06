@@ -494,6 +494,7 @@ If you found this repository useful, don't forget to ⭐ the repository!
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/Abhinav1527/LEETCODE/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0112-path-sum](https://github.com/Abhinav1527/LEETCODE/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/Abhinav1527/LEETCODE/tree/master/0113-path-sum-ii) |
+| [0543-diameter-of-binary-tree](https://github.com/Abhinav1527/LEETCODE/tree/master/0543-diameter-of-binary-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Abhinav1527/LEETCODE/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/Abhinav1527/LEETCODE/tree/master/0938-range-sum-of-bst) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Abhinav1527/LEETCODE/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
@@ -518,6 +519,7 @@ If you found this repository useful, don't forget to ⭐ the repository!
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/Abhinav1527/LEETCODE/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0112-path-sum](https://github.com/Abhinav1527/LEETCODE/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/Abhinav1527/LEETCODE/tree/master/0113-path-sum-ii) |
+| [0543-diameter-of-binary-tree](https://github.com/Abhinav1527/LEETCODE/tree/master/0543-diameter-of-binary-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Abhinav1527/LEETCODE/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/Abhinav1527/LEETCODE/tree/master/0938-range-sum-of-bst) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Abhinav1527/LEETCODE/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
@@ -684,6 +686,7 @@ If you found this repository useful, don't forget to ⭐ the repository!
 | [0101-symmetric-tree](https://github.com/Abhinav1527/LEETCODE/tree/master/0101-symmetric-tree) |
 | [0112-path-sum](https://github.com/Abhinav1527/LEETCODE/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/Abhinav1527/LEETCODE/tree/master/0113-path-sum-ii) |
+| [0543-diameter-of-binary-tree](https://github.com/Abhinav1527/LEETCODE/tree/master/0543-diameter-of-binary-tree) |
 | [0938-range-sum-of-bst](https://github.com/Abhinav1527/LEETCODE/tree/master/0938-range-sum-of-bst) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Abhinav1527/LEETCODE/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Monotonic Stack
@@ -716,4 +719,8 @@ If you found this repository useful, don't forget to ⭐ the repository!
 |  |
 | ------- |
 | [0518-coin-change-ii](https://github.com/Abhinav1527/LEETCODE/tree/master/0518-coin-change-ii) |
+## DP on Trees
+|  |
+| ------- |
+| [0543-diameter-of-binary-tree](https://github.com/Abhinav1527/LEETCODE/tree/master/0543-diameter-of-binary-tree) |
 <!---LeetCode Topics End-->
