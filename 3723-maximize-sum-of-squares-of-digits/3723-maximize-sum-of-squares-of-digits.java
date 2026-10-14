@@ -11,7 +11,7 @@ class Solution {
         }
 
         if(r>0) {
-            sb.append((char)('0'+r));
+            sb.append(r);
         }
 
         int zeroes = num - sb.length();
