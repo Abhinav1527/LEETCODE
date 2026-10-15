@@ -4,10 +4,15 @@ class Solution {
         int ans = 0;
 
         for(int i=0;i<n;i++) {
-            Set<Integer> hs = new HashSet<>();
+            boolean[] vis = new boolean[101];
+            int c = 0;
             for(int j=i;j<n;j++) {
-                hs.add(nums.get(j));
-                ans += hs.size()*hs.size();
+                int num = nums.get(j);
+                if(!vis[num]) {
+                    c++;
+                    vis[num] = true;
+                }
+                ans += c*c;
             }
         }
         return ans;
