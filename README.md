@@ -159,6 +159,7 @@ If you found this repository useful, don't forget to ⭐ the repository!
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Abhinav1527/LEETCODE/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/Abhinav1527/LEETCODE/tree/master/2029-stone-game-ix) |
 | [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/Abhinav1527/LEETCODE/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Abhinav1527/LEETCODE/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Abhinav1527/LEETCODE/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/Abhinav1527/LEETCODE/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Abhinav1527/LEETCODE/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -351,6 +352,7 @@ If you found this repository useful, don't forget to ⭐ the repository!
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Abhinav1527/LEETCODE/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1552-magnetic-force-between-two-balls](https://github.com/Abhinav1527/LEETCODE/tree/master/1552-magnetic-force-between-two-balls) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Abhinav1527/LEETCODE/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Abhinav1527/LEETCODE/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Abhinav1527/LEETCODE/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Abhinav1527/LEETCODE/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Abhinav1527/LEETCODE/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -571,6 +573,7 @@ If you found this repository useful, don't forget to ⭐ the repository!
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Abhinav1527/LEETCODE/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1552-magnetic-force-between-two-balls](https://github.com/Abhinav1527/LEETCODE/tree/master/1552-magnetic-force-between-two-balls) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Abhinav1527/LEETCODE/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Abhinav1527/LEETCODE/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/Abhinav1527/LEETCODE/tree/master/2302-count-subarrays-with-score-less-than-k) |
 ## Bit Manipulation
 |  |
