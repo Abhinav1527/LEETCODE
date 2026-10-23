@@ -135,6 +135,7 @@ If you found this repository useful, don't forget to ⭐ the repository!
 | [0692-top-k-frequent-words](https://github.com/Abhinav1527/LEETCODE/tree/master/0692-top-k-frequent-words) |
 | [0713-subarray-product-less-than-k](https://github.com/Abhinav1527/LEETCODE/tree/master/0713-subarray-product-less-than-k) |
 | [0835-image-overlap](https://github.com/Abhinav1527/LEETCODE/tree/master/0835-image-overlap) |
+| [0860-lemonade-change](https://github.com/Abhinav1527/LEETCODE/tree/master/0860-lemonade-change) |
 | [0877-stone-game](https://github.com/Abhinav1527/LEETCODE/tree/master/0877-stone-game) |
 | [0930-binary-subarrays-with-sum](https://github.com/Abhinav1527/LEETCODE/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Abhinav1527/LEETCODE/tree/master/0974-subarray-sums-divisible-by-k) |
@@ -383,6 +384,7 @@ If you found this repository useful, don't forget to ⭐ the repository!
 |  |
 | ------- |
 | [0678-valid-parenthesis-string](https://github.com/Abhinav1527/LEETCODE/tree/master/0678-valid-parenthesis-string) |
+| [0860-lemonade-change](https://github.com/Abhinav1527/LEETCODE/tree/master/0860-lemonade-change) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Abhinav1527/LEETCODE/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Abhinav1527/LEETCODE/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/Abhinav1527/LEETCODE/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
