@@ -142,6 +142,7 @@ If you found this repository useful, don't forget to ⭐ the repository!
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Abhinav1527/LEETCODE/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Abhinav1527/LEETCODE/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1049-last-stone-weight-ii](https://github.com/Abhinav1527/LEETCODE/tree/master/1049-last-stone-weight-ii) |
+| [1254-number-of-closed-islands](https://github.com/Abhinav1527/LEETCODE/tree/master/1254-number-of-closed-islands) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Abhinav1527/LEETCODE/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1288-remove-covered-intervals](https://github.com/Abhinav1527/LEETCODE/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/Abhinav1527/LEETCODE/tree/master/1331-rank-transform-of-an-array) |
@@ -411,6 +412,7 @@ If you found this repository useful, don't forget to ⭐ the repository!
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Abhinav1527/LEETCODE/tree/master/0128-longest-consecutive-sequence) |
+| [1254-number-of-closed-islands](https://github.com/Abhinav1527/LEETCODE/tree/master/1254-number-of-closed-islands) |
 ## Queue
 |  |
 | ------- |
@@ -537,6 +539,7 @@ If you found this repository useful, don't forget to ⭐ the repository!
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Abhinav1527/LEETCODE/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/Abhinav1527/LEETCODE/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0112-path-sum](https://github.com/Abhinav1527/LEETCODE/tree/master/0112-path-sum) |
+| [1254-number-of-closed-islands](https://github.com/Abhinav1527/LEETCODE/tree/master/1254-number-of-closed-islands) |
 ## Binary Tree
 |  |
 | ------- |
@@ -657,6 +660,7 @@ If you found this repository useful, don't forget to ⭐ the repository!
 | [0059-spiral-matrix-ii](https://github.com/Abhinav1527/LEETCODE/tree/master/0059-spiral-matrix-ii) |
 | [0073-set-matrix-zeroes](https://github.com/Abhinav1527/LEETCODE/tree/master/0073-set-matrix-zeroes) |
 | [0835-image-overlap](https://github.com/Abhinav1527/LEETCODE/tree/master/0835-image-overlap) |
+| [1254-number-of-closed-islands](https://github.com/Abhinav1527/LEETCODE/tree/master/1254-number-of-closed-islands) |
 | [1572-matrix-diagonal-sum](https://github.com/Abhinav1527/LEETCODE/tree/master/1572-matrix-diagonal-sum) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Abhinav1527/LEETCODE/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/Abhinav1527/LEETCODE/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
@@ -724,6 +728,7 @@ If you found this repository useful, don't forget to ⭐ the repository!
 | [0113-path-sum-ii](https://github.com/Abhinav1527/LEETCODE/tree/master/0113-path-sum-ii) |
 | [0543-diameter-of-binary-tree](https://github.com/Abhinav1527/LEETCODE/tree/master/0543-diameter-of-binary-tree) |
 | [0938-range-sum-of-bst](https://github.com/Abhinav1527/LEETCODE/tree/master/0938-range-sum-of-bst) |
+| [1254-number-of-closed-islands](https://github.com/Abhinav1527/LEETCODE/tree/master/1254-number-of-closed-islands) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Abhinav1527/LEETCODE/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Monotonic Stack
 |  |
