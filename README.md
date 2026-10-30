@@ -227,6 +227,7 @@ If you found this repository useful, don't forget to ⭐ the repository!
 | [0076-minimum-window-substring](https://github.com/Abhinav1527/LEETCODE/tree/master/0076-minimum-window-substring) |
 | [0128-longest-consecutive-sequence](https://github.com/Abhinav1527/LEETCODE/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/Abhinav1527/LEETCODE/tree/master/0169-majority-element) |
+| [0187-repeated-dna-sequences](https://github.com/Abhinav1527/LEETCODE/tree/master/0187-repeated-dna-sequences) |
 | [0219-contains-duplicate-ii](https://github.com/Abhinav1527/LEETCODE/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/Abhinav1527/LEETCODE/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/Abhinav1527/LEETCODE/tree/master/0268-missing-number) |
@@ -319,6 +320,7 @@ If you found this repository useful, don't forget to ⭐ the repository!
 | [0032-longest-valid-parentheses](https://github.com/Abhinav1527/LEETCODE/tree/master/0032-longest-valid-parentheses) |
 | [0076-minimum-window-substring](https://github.com/Abhinav1527/LEETCODE/tree/master/0076-minimum-window-substring) |
 | [0131-palindrome-partitioning](https://github.com/Abhinav1527/LEETCODE/tree/master/0131-palindrome-partitioning) |
+| [0187-repeated-dna-sequences](https://github.com/Abhinav1527/LEETCODE/tree/master/0187-repeated-dna-sequences) |
 | [0344-reverse-string](https://github.com/Abhinav1527/LEETCODE/tree/master/0344-reverse-string) |
 | [0451-sort-characters-by-frequency](https://github.com/Abhinav1527/LEETCODE/tree/master/0451-sort-characters-by-frequency) |
 | [0678-valid-parenthesis-string](https://github.com/Abhinav1527/LEETCODE/tree/master/0678-valid-parenthesis-string) |
@@ -429,6 +431,7 @@ If you found this repository useful, don't forget to ⭐ the repository!
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Abhinav1527/LEETCODE/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/Abhinav1527/LEETCODE/tree/master/0076-minimum-window-substring) |
+| [0187-repeated-dna-sequences](https://github.com/Abhinav1527/LEETCODE/tree/master/0187-repeated-dna-sequences) |
 | [0209-minimum-size-subarray-sum](https://github.com/Abhinav1527/LEETCODE/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/Abhinav1527/LEETCODE/tree/master/0219-contains-duplicate-ii) |
 | [0239-sliding-window-maximum](https://github.com/Abhinav1527/LEETCODE/tree/master/0239-sliding-window-maximum) |
@@ -602,6 +605,7 @@ If you found this repository useful, don't forget to ⭐ the repository!
 | [0078-subsets](https://github.com/Abhinav1527/LEETCODE/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Abhinav1527/LEETCODE/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/Abhinav1527/LEETCODE/tree/master/0136-single-number) |
+| [0187-repeated-dna-sequences](https://github.com/Abhinav1527/LEETCODE/tree/master/0187-repeated-dna-sequences) |
 | [0268-missing-number](https://github.com/Abhinav1527/LEETCODE/tree/master/0268-missing-number) |
 | [0491-non-decreasing-subsequences](https://github.com/Abhinav1527/LEETCODE/tree/master/0491-non-decreasing-subsequences) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Abhinav1527/LEETCODE/tree/master/1684-count-the-number-of-consistent-strings) |
@@ -783,4 +787,20 @@ If you found this repository useful, don't forget to ⭐ the repository!
 |  |
 | ------- |
 | [2185-counting-words-with-a-given-prefix](https://github.com/Abhinav1527/LEETCODE/tree/master/2185-counting-words-with-a-given-prefix) |
+## Rolling Hash
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/Abhinav1527/LEETCODE/tree/master/0187-repeated-dna-sequences) |
+## Hash Function
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/Abhinav1527/LEETCODE/tree/master/0187-repeated-dna-sequences) |
+## Z Algorithm
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/Abhinav1527/LEETCODE/tree/master/0187-repeated-dna-sequences) |
+## Boyer–Moore String-Search Algorithm
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/Abhinav1527/LEETCODE/tree/master/0187-repeated-dna-sequences) |
 <!---LeetCode Topics End-->
