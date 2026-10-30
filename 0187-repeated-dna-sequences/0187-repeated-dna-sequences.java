@@ -3,6 +3,7 @@ class Solution {
         int n = s.length();
         HashSet<String> hs = new HashSet<>();
         HashSet<String> sol = new HashSet<>();
+        List<String> ans = new ArrayList<>();
 
         for(int i=0;i<=n-10;i++) {
             String temp = s.substring(i,i+10);
@@ -12,6 +13,9 @@ class Solution {
                 hs.add(temp);
             } 
         }
-        return new ArrayList<>(sol);
+        for(String str : sol) {
+            ans.add(str);
+        }
+        return ans;
     }
 }
