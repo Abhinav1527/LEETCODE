@@ -173,6 +173,7 @@ If you found this repository useful, don't forget to ⭐ the repository!
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/Abhinav1527/LEETCODE/tree/master/2302-count-subarrays-with-score-less-than-k) |
 | [2326-spiral-matrix-iv](https://github.com/Abhinav1527/LEETCODE/tree/master/2326-spiral-matrix-iv) |
 | [2395-find-subarrays-with-equal-sum](https://github.com/Abhinav1527/LEETCODE/tree/master/2395-find-subarrays-with-equal-sum) |
+| [2418-sort-the-people](https://github.com/Abhinav1527/LEETCODE/tree/master/2418-sort-the-people) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Abhinav1527/LEETCODE/tree/master/2553-separate-the-digits-in-an-array) |
 | [2559-count-vowel-strings-in-ranges](https://github.com/Abhinav1527/LEETCODE/tree/master/2559-count-vowel-strings-in-ranges) |
 | [2588-count-the-number-of-beautiful-subarrays](https://github.com/Abhinav1527/LEETCODE/tree/master/2588-count-the-number-of-beautiful-subarrays) |
@@ -251,6 +252,7 @@ If you found this repository useful, don't forget to ⭐ the repository!
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Abhinav1527/LEETCODE/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/Abhinav1527/LEETCODE/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
 | [2395-find-subarrays-with-equal-sum](https://github.com/Abhinav1527/LEETCODE/tree/master/2395-find-subarrays-with-equal-sum) |
+| [2418-sort-the-people](https://github.com/Abhinav1527/LEETCODE/tree/master/2418-sort-the-people) |
 | [2588-count-the-number-of-beautiful-subarrays](https://github.com/Abhinav1527/LEETCODE/tree/master/2588-count-the-number-of-beautiful-subarrays) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Abhinav1527/LEETCODE/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Abhinav1527/LEETCODE/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
@@ -342,6 +344,7 @@ If you found this repository useful, don't forget to ⭐ the repository!
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Abhinav1527/LEETCODE/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2063-vowels-of-all-substrings](https://github.com/Abhinav1527/LEETCODE/tree/master/2063-vowels-of-all-substrings) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/Abhinav1527/LEETCODE/tree/master/2185-counting-words-with-a-given-prefix) |
+| [2418-sort-the-people](https://github.com/Abhinav1527/LEETCODE/tree/master/2418-sort-the-people) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Abhinav1527/LEETCODE/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2559-count-vowel-strings-in-ranges](https://github.com/Abhinav1527/LEETCODE/tree/master/2559-count-vowel-strings-in-ranges) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Abhinav1527/LEETCODE/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
@@ -372,6 +375,7 @@ If you found this repository useful, don't forget to ⭐ the repository!
 | [1552-magnetic-force-between-two-balls](https://github.com/Abhinav1527/LEETCODE/tree/master/1552-magnetic-force-between-two-balls) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Abhinav1527/LEETCODE/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Abhinav1527/LEETCODE/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2418-sort-the-people](https://github.com/Abhinav1527/LEETCODE/tree/master/2418-sort-the-people) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Abhinav1527/LEETCODE/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Abhinav1527/LEETCODE/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Abhinav1527/LEETCODE/tree/master/3517-smallest-palindromic-rearrangement-i) |
