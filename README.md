@@ -197,6 +197,7 @@ If you found this repository useful, don't forget to ⭐ the repository!
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Abhinav1527/LEETCODE/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Abhinav1527/LEETCODE/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/Abhinav1527/LEETCODE/tree/master/3731-find-missing-elements) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Abhinav1527/LEETCODE/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Abhinav1527/LEETCODE/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Abhinav1527/LEETCODE/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Abhinav1527/LEETCODE/tree/master/3875-construct-uniform-parity-array-i) |
@@ -489,6 +490,7 @@ If you found this repository useful, don't forget to ⭐ the repository!
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Abhinav1527/LEETCODE/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Abhinav1527/LEETCODE/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/Abhinav1527/LEETCODE/tree/master/3723-maximize-sum-of-squares-of-digits) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Abhinav1527/LEETCODE/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Abhinav1527/LEETCODE/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3870-count-commas-in-range](https://github.com/Abhinav1527/LEETCODE/tree/master/3870-count-commas-in-range) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Abhinav1527/LEETCODE/tree/master/3875-construct-uniform-parity-array-i) |
