@@ -351,6 +351,7 @@ If you found this repository useful, don't forget to ⭐ the repository!
 | [2418-sort-the-people](https://github.com/Abhinav1527/LEETCODE/tree/master/2418-sort-the-people) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Abhinav1527/LEETCODE/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2559-count-vowel-strings-in-ranges](https://github.com/Abhinav1527/LEETCODE/tree/master/2559-count-vowel-strings-in-ranges) |
+| [2710-remove-trailing-zeros-from-a-string](https://github.com/Abhinav1527/LEETCODE/tree/master/2710-remove-trailing-zeros-from-a-string) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Abhinav1527/LEETCODE/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Abhinav1527/LEETCODE/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Abhinav1527/LEETCODE/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
