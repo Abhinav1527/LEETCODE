@@ -238,6 +238,7 @@ If you found this repository useful, don't forget to ⭐ the repository!
 | [0187-repeated-dna-sequences](https://github.com/Abhinav1527/LEETCODE/tree/master/0187-repeated-dna-sequences) |
 | [0219-contains-duplicate-ii](https://github.com/Abhinav1527/LEETCODE/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/Abhinav1527/LEETCODE/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/Abhinav1527/LEETCODE/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Abhinav1527/LEETCODE/tree/master/0268-missing-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Abhinav1527/LEETCODE/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/Abhinav1527/LEETCODE/tree/master/0451-sort-characters-by-frequency) |
@@ -333,6 +334,7 @@ If you found this repository useful, don't forget to ⭐ the repository!
 | [0076-minimum-window-substring](https://github.com/Abhinav1527/LEETCODE/tree/master/0076-minimum-window-substring) |
 | [0131-palindrome-partitioning](https://github.com/Abhinav1527/LEETCODE/tree/master/0131-palindrome-partitioning) |
 | [0187-repeated-dna-sequences](https://github.com/Abhinav1527/LEETCODE/tree/master/0187-repeated-dna-sequences) |
+| [0242-valid-anagram](https://github.com/Abhinav1527/LEETCODE/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Abhinav1527/LEETCODE/tree/master/0344-reverse-string) |
 | [0451-sort-characters-by-frequency](https://github.com/Abhinav1527/LEETCODE/tree/master/0451-sort-characters-by-frequency) |
 | [0678-valid-parenthesis-string](https://github.com/Abhinav1527/LEETCODE/tree/master/0678-valid-parenthesis-string) |
@@ -375,6 +377,7 @@ If you found this repository useful, don't forget to ⭐ the repository!
 | [0088-merge-sorted-array](https://github.com/Abhinav1527/LEETCODE/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Abhinav1527/LEETCODE/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Abhinav1527/LEETCODE/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/Abhinav1527/LEETCODE/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Abhinav1527/LEETCODE/tree/master/0268-missing-number) |
 | [0451-sort-characters-by-frequency](https://github.com/Abhinav1527/LEETCODE/tree/master/0451-sort-characters-by-frequency) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Abhinav1527/LEETCODE/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
