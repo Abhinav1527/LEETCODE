@@ -242,6 +242,7 @@ If you found this repository useful, don't forget to ⭐ the repository!
 | [0229-majority-element-ii](https://github.com/Abhinav1527/LEETCODE/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Abhinav1527/LEETCODE/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Abhinav1527/LEETCODE/tree/master/0268-missing-number) |
+| [0387-first-unique-character-in-a-string](https://github.com/Abhinav1527/LEETCODE/tree/master/0387-first-unique-character-in-a-string) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Abhinav1527/LEETCODE/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/Abhinav1527/LEETCODE/tree/master/0451-sort-characters-by-frequency) |
 | [0454-4sum-ii](https://github.com/Abhinav1527/LEETCODE/tree/master/0454-4sum-ii) |
@@ -297,6 +298,7 @@ If you found this repository useful, don't forget to ⭐ the repository!
 | ------- |
 | [0169-majority-element](https://github.com/Abhinav1527/LEETCODE/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Abhinav1527/LEETCODE/tree/master/0229-majority-element-ii) |
+| [0387-first-unique-character-in-a-string](https://github.com/Abhinav1527/LEETCODE/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/Abhinav1527/LEETCODE/tree/master/0451-sort-characters-by-frequency) |
 | [0692-top-k-frequent-words](https://github.com/Abhinav1527/LEETCODE/tree/master/0692-top-k-frequent-words) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Abhinav1527/LEETCODE/tree/master/1684-count-the-number-of-consistent-strings) |
@@ -339,6 +341,7 @@ If you found this repository useful, don't forget to ⭐ the repository!
 | [0187-repeated-dna-sequences](https://github.com/Abhinav1527/LEETCODE/tree/master/0187-repeated-dna-sequences) |
 | [0242-valid-anagram](https://github.com/Abhinav1527/LEETCODE/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Abhinav1527/LEETCODE/tree/master/0344-reverse-string) |
+| [0387-first-unique-character-in-a-string](https://github.com/Abhinav1527/LEETCODE/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/Abhinav1527/LEETCODE/tree/master/0451-sort-characters-by-frequency) |
 | [0647-palindromic-substrings](https://github.com/Abhinav1527/LEETCODE/tree/master/0647-palindromic-substrings) |
 | [0678-valid-parenthesis-string](https://github.com/Abhinav1527/LEETCODE/tree/master/0678-valid-parenthesis-string) |
@@ -452,6 +455,7 @@ If you found this repository useful, don't forget to ⭐ the repository!
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Abhinav1527/LEETCODE/tree/master/0239-sliding-window-maximum) |
+| [0387-first-unique-character-in-a-string](https://github.com/Abhinav1527/LEETCODE/tree/master/0387-first-unique-character-in-a-string) |
 ## Sliding Window
 |  |
 | ------- |
