@@ -153,6 +153,7 @@ If you found this repository useful, don't forget to ⭐ the repository!
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Abhinav1527/LEETCODE/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Abhinav1527/LEETCODE/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Abhinav1527/LEETCODE/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Abhinav1527/LEETCODE/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1534-count-good-triplets](https://github.com/Abhinav1527/LEETCODE/tree/master/1534-count-good-triplets) |
 | [1552-magnetic-force-between-two-balls](https://github.com/Abhinav1527/LEETCODE/tree/master/1552-magnetic-force-between-two-balls) |
 | [1572-matrix-diagonal-sum](https://github.com/Abhinav1527/LEETCODE/tree/master/1572-matrix-diagonal-sum) |
@@ -318,6 +319,7 @@ If you found this repository useful, don't forget to ⭐ the repository!
 | [0930-binary-subarrays-with-sum](https://github.com/Abhinav1527/LEETCODE/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Abhinav1527/LEETCODE/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/Abhinav1527/LEETCODE/tree/master/1004-max-consecutive-ones-iii) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Abhinav1527/LEETCODE/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Abhinav1527/LEETCODE/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/Abhinav1527/LEETCODE/tree/master/2302-count-subarrays-with-score-less-than-k) |
 | [2559-count-vowel-strings-in-ranges](https://github.com/Abhinav1527/LEETCODE/tree/master/2559-count-vowel-strings-in-ranges) |
@@ -502,6 +504,7 @@ If you found this repository useful, don't forget to ⭐ the repository!
 | [0836-rectangle-overlap](https://github.com/Abhinav1527/LEETCODE/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/Abhinav1527/LEETCODE/tree/master/0877-stone-game) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/Abhinav1527/LEETCODE/tree/master/1401-circle-and-rectangle-overlapping) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Abhinav1527/LEETCODE/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Abhinav1527/LEETCODE/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Abhinav1527/LEETCODE/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/Abhinav1527/LEETCODE/tree/master/2029-stone-game-ix) |
@@ -539,6 +542,7 @@ If you found this repository useful, don't forget to ⭐ the repository!
 | [0877-stone-game](https://github.com/Abhinav1527/LEETCODE/tree/master/0877-stone-game) |
 | [1049-last-stone-weight-ii](https://github.com/Abhinav1527/LEETCODE/tree/master/1049-last-stone-weight-ii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Abhinav1527/LEETCODE/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Abhinav1527/LEETCODE/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [2063-vowels-of-all-substrings](https://github.com/Abhinav1527/LEETCODE/tree/master/2063-vowels-of-all-substrings) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Abhinav1527/LEETCODE/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/Abhinav1527/LEETCODE/tree/master/3882-minimum-xor-path-in-a-grid) |
