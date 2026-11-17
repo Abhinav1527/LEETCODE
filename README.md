@@ -140,6 +140,7 @@ If you found this repository useful, don't forget to ⭐ the repository!
 | [0835-image-overlap](https://github.com/Abhinav1527/LEETCODE/tree/master/0835-image-overlap) |
 | [0860-lemonade-change](https://github.com/Abhinav1527/LEETCODE/tree/master/0860-lemonade-change) |
 | [0877-stone-game](https://github.com/Abhinav1527/LEETCODE/tree/master/0877-stone-game) |
+| [0905-sort-array-by-parity](https://github.com/Abhinav1527/LEETCODE/tree/master/0905-sort-array-by-parity) |
 | [0930-binary-subarrays-with-sum](https://github.com/Abhinav1527/LEETCODE/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Abhinav1527/LEETCODE/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/Abhinav1527/LEETCODE/tree/master/1004-max-consecutive-ones-iii) |
@@ -395,6 +396,7 @@ If you found this repository useful, don't forget to ⭐ the repository!
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Abhinav1527/LEETCODE/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Abhinav1527/LEETCODE/tree/master/0628-maximum-product-of-three-numbers) |
 | [0692-top-k-frequent-words](https://github.com/Abhinav1527/LEETCODE/tree/master/0692-top-k-frequent-words) |
+| [0905-sort-array-by-parity](https://github.com/Abhinav1527/LEETCODE/tree/master/0905-sort-array-by-parity) |
 | [1288-remove-covered-intervals](https://github.com/Abhinav1527/LEETCODE/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/Abhinav1527/LEETCODE/tree/master/1331-rank-transform-of-an-array) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Abhinav1527/LEETCODE/tree/master/1385-find-the-distance-value-between-two-arrays) |
@@ -566,6 +568,7 @@ If you found this repository useful, don't forget to ⭐ the repository!
 | [0189-rotate-array](https://github.com/Abhinav1527/LEETCODE/tree/master/0189-rotate-array) |
 | [0344-reverse-string](https://github.com/Abhinav1527/LEETCODE/tree/master/0344-reverse-string) |
 | [0647-palindromic-substrings](https://github.com/Abhinav1527/LEETCODE/tree/master/0647-palindromic-substrings) |
+| [0905-sort-array-by-parity](https://github.com/Abhinav1527/LEETCODE/tree/master/0905-sort-array-by-parity) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Abhinav1527/LEETCODE/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Abhinav1527/LEETCODE/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Abhinav1527/LEETCODE/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
