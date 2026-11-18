@@ -372,6 +372,7 @@ If you found this repository useful, don't forget to ⭐ the repository!
 | [2559-count-vowel-strings-in-ranges](https://github.com/Abhinav1527/LEETCODE/tree/master/2559-count-vowel-strings-in-ranges) |
 | [2710-remove-trailing-zeros-from-a-string](https://github.com/Abhinav1527/LEETCODE/tree/master/2710-remove-trailing-zeros-from-a-string) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Abhinav1527/LEETCODE/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
+| [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/Abhinav1527/LEETCODE/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Abhinav1527/LEETCODE/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Abhinav1527/LEETCODE/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Abhinav1527/LEETCODE/tree/master/3090-maximum-length-substring-with-two-occurrences) |
