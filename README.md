@@ -514,6 +514,7 @@ If you found this repository useful, don't forget to ⭐ the repository!
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Abhinav1527/LEETCODE/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/Abhinav1527/LEETCODE/tree/master/2029-stone-game-ix) |
 | [2063-vowels-of-all-substrings](https://github.com/Abhinav1527/LEETCODE/tree/master/2063-vowels-of-all-substrings) |
+| [2894-divisible-and-non-divisible-sums-difference](https://github.com/Abhinav1527/LEETCODE/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Abhinav1527/LEETCODE/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Abhinav1527/LEETCODE/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Abhinav1527/LEETCODE/tree/master/3513-number-of-unique-xor-triplets-i) |
