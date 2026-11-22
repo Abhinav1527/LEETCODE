@@ -227,6 +227,7 @@ If you found this repository useful, don't forget to ⭐ the repository!
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Abhinav1527/LEETCODE/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/Abhinav1527/LEETCODE/tree/master/3498-reverse-degree-of-a-string) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Abhinav1527/LEETCODE/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+| [3959-check-good-integer](https://github.com/Abhinav1527/LEETCODE/tree/master/3959-check-good-integer) |
 ## Hash Table
 |  |
 | ------- |
@@ -531,6 +532,7 @@ If you found this repository useful, don't forget to ⭐ the repository!
 | [3870-count-commas-in-range](https://github.com/Abhinav1527/LEETCODE/tree/master/3870-count-commas-in-range) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Abhinav1527/LEETCODE/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Abhinav1527/LEETCODE/tree/master/3876-construct-uniform-parity-array-ii) |
+| [3959-check-good-integer](https://github.com/Abhinav1527/LEETCODE/tree/master/3959-check-good-integer) |
 ## Dynamic Programming
 |  |
 | ------- |
