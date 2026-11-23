@@ -245,6 +245,7 @@ If you found this repository useful, don't forget to ⭐ the repository!
 | [0128-longest-consecutive-sequence](https://github.com/Abhinav1527/LEETCODE/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/Abhinav1527/LEETCODE/tree/master/0169-majority-element) |
 | [0187-repeated-dna-sequences](https://github.com/Abhinav1527/LEETCODE/tree/master/0187-repeated-dna-sequences) |
+| [0205-isomorphic-strings](https://github.com/Abhinav1527/LEETCODE/tree/master/0205-isomorphic-strings) |
 | [0219-contains-duplicate-ii](https://github.com/Abhinav1527/LEETCODE/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/Abhinav1527/LEETCODE/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Abhinav1527/LEETCODE/tree/master/0242-valid-anagram) |
@@ -349,6 +350,7 @@ If you found this repository useful, don't forget to ⭐ the repository!
 | [0076-minimum-window-substring](https://github.com/Abhinav1527/LEETCODE/tree/master/0076-minimum-window-substring) |
 | [0131-palindrome-partitioning](https://github.com/Abhinav1527/LEETCODE/tree/master/0131-palindrome-partitioning) |
 | [0187-repeated-dna-sequences](https://github.com/Abhinav1527/LEETCODE/tree/master/0187-repeated-dna-sequences) |
+| [0205-isomorphic-strings](https://github.com/Abhinav1527/LEETCODE/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Abhinav1527/LEETCODE/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Abhinav1527/LEETCODE/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/Abhinav1527/LEETCODE/tree/master/0387-first-unique-character-in-a-string) |
