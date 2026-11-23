@@ -181,6 +181,7 @@ If you found this repository useful, don't forget to ⭐ the repository!
 | [2326-spiral-matrix-iv](https://github.com/Abhinav1527/LEETCODE/tree/master/2326-spiral-matrix-iv) |
 | [2395-find-subarrays-with-equal-sum](https://github.com/Abhinav1527/LEETCODE/tree/master/2395-find-subarrays-with-equal-sum) |
 | [2418-sort-the-people](https://github.com/Abhinav1527/LEETCODE/tree/master/2418-sort-the-people) |
+| [2419-longest-subarray-with-maximum-bitwise-and](https://github.com/Abhinav1527/LEETCODE/tree/master/2419-longest-subarray-with-maximum-bitwise-and) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Abhinav1527/LEETCODE/tree/master/2553-separate-the-digits-in-an-array) |
 | [2559-count-vowel-strings-in-ranges](https://github.com/Abhinav1527/LEETCODE/tree/master/2559-count-vowel-strings-in-ranges) |
 | [2588-count-the-number-of-beautiful-subarrays](https://github.com/Abhinav1527/LEETCODE/tree/master/2588-count-the-number-of-beautiful-subarrays) |
@@ -670,6 +671,7 @@ If you found this repository useful, don't forget to ⭐ the repository!
 | [1684-count-the-number-of-consistent-strings](https://github.com/Abhinav1527/LEETCODE/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Abhinav1527/LEETCODE/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/Abhinav1527/LEETCODE/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
+| [2419-longest-subarray-with-maximum-bitwise-and](https://github.com/Abhinav1527/LEETCODE/tree/master/2419-longest-subarray-with-maximum-bitwise-and) |
 | [2588-count-the-number-of-beautiful-subarrays](https://github.com/Abhinav1527/LEETCODE/tree/master/2588-count-the-number-of-beautiful-subarrays) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Abhinav1527/LEETCODE/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2932-maximum-strong-pair-xor-i](https://github.com/Abhinav1527/LEETCODE/tree/master/2932-maximum-strong-pair-xor-i) |
@@ -870,4 +872,8 @@ If you found this repository useful, don't forget to ⭐ the repository!
 |  |
 | ------- |
 | [1352-product-of-the-last-k-numbers](https://github.com/Abhinav1527/LEETCODE/tree/master/1352-product-of-the-last-k-numbers) |
+## Brainteaser
+|  |
+| ------- |
+| [2419-longest-subarray-with-maximum-bitwise-and](https://github.com/Abhinav1527/LEETCODE/tree/master/2419-longest-subarray-with-maximum-bitwise-and) |
 <!---LeetCode Topics End-->
