@@ -229,6 +229,7 @@ If you found this repository useful, don't forget to ⭐ the repository!
 | [2326-spiral-matrix-iv](https://github.com/Abhinav1527/LEETCODE/tree/master/2326-spiral-matrix-iv) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Abhinav1527/LEETCODE/tree/master/2553-separate-the-digits-in-an-array) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Abhinav1527/LEETCODE/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3360-stone-removal-game](https://github.com/Abhinav1527/LEETCODE/tree/master/3360-stone-removal-game) |
 | [3498-reverse-degree-of-a-string](https://github.com/Abhinav1527/LEETCODE/tree/master/3498-reverse-degree-of-a-string) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Abhinav1527/LEETCODE/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3959-check-good-integer](https://github.com/Abhinav1527/LEETCODE/tree/master/3959-check-good-integer) |
@@ -537,6 +538,7 @@ If you found this repository useful, don't forget to ⭐ the repository!
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/Abhinav1527/LEETCODE/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Abhinav1527/LEETCODE/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Abhinav1527/LEETCODE/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3360-stone-removal-game](https://github.com/Abhinav1527/LEETCODE/tree/master/3360-stone-removal-game) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/Abhinav1527/LEETCODE/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Abhinav1527/LEETCODE/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Abhinav1527/LEETCODE/tree/master/3514-number-of-unique-xor-triplets-ii) |
