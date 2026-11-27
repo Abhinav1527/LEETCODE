@@ -175,6 +175,7 @@ If you found this repository useful, don't forget to ⭐ the repository!
 | [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/Abhinav1527/LEETCODE/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Abhinav1527/LEETCODE/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Abhinav1527/LEETCODE/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/Abhinav1527/LEETCODE/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/Abhinav1527/LEETCODE/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Abhinav1527/LEETCODE/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/Abhinav1527/LEETCODE/tree/master/2185-counting-words-with-a-given-prefix) |
@@ -378,6 +379,7 @@ If you found this repository useful, don't forget to ⭐ the repository!
 | [1945-sum-of-digits-of-string-after-convert](https://github.com/Abhinav1527/LEETCODE/tree/master/1945-sum-of-digits-of-string-after-convert) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Abhinav1527/LEETCODE/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2063-vowels-of-all-substrings](https://github.com/Abhinav1527/LEETCODE/tree/master/2063-vowels-of-all-substrings) |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/Abhinav1527/LEETCODE/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/Abhinav1527/LEETCODE/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/Abhinav1527/LEETCODE/tree/master/2185-counting-words-with-a-given-prefix) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/Abhinav1527/LEETCODE/tree/master/2243-calculate-digit-sum-of-a-string) |
@@ -596,6 +598,7 @@ If you found this repository useful, don't forget to ⭐ the repository!
 | [0647-palindromic-substrings](https://github.com/Abhinav1527/LEETCODE/tree/master/0647-palindromic-substrings) |
 | [0905-sort-array-by-parity](https://github.com/Abhinav1527/LEETCODE/tree/master/0905-sort-array-by-parity) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Abhinav1527/LEETCODE/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/Abhinav1527/LEETCODE/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Abhinav1527/LEETCODE/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Abhinav1527/LEETCODE/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Abhinav1527/LEETCODE/tree/master/3867-sum-of-gcd-of-formed-pairs) |
