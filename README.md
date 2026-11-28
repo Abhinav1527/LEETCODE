@@ -164,6 +164,7 @@ If you found this repository useful, don't forget to ⭐ the repository!
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Abhinav1527/LEETCODE/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Abhinav1527/LEETCODE/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Abhinav1527/LEETCODE/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Abhinav1527/LEETCODE/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Abhinav1527/LEETCODE/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/Abhinav1527/LEETCODE/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Abhinav1527/LEETCODE/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
@@ -336,6 +337,7 @@ If you found this repository useful, don't forget to ⭐ the repository!
 | [1352-product-of-the-last-k-numbers](https://github.com/Abhinav1527/LEETCODE/tree/master/1352-product-of-the-last-k-numbers) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Abhinav1527/LEETCODE/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Abhinav1527/LEETCODE/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Abhinav1527/LEETCODE/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/Abhinav1527/LEETCODE/tree/master/2302-count-subarrays-with-score-less-than-k) |
 | [2559-count-vowel-strings-in-ranges](https://github.com/Abhinav1527/LEETCODE/tree/master/2559-count-vowel-strings-in-ranges) |
 | [2588-count-the-number-of-beautiful-subarrays](https://github.com/Abhinav1527/LEETCODE/tree/master/2588-count-the-number-of-beautiful-subarrays) |
@@ -374,6 +376,7 @@ If you found this repository useful, don't forget to ⭐ the repository!
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Abhinav1527/LEETCODE/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Abhinav1527/LEETCODE/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/Abhinav1527/LEETCODE/tree/master/1704-determine-if-string-halves-are-alike) |
+| [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Abhinav1527/LEETCODE/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Abhinav1527/LEETCODE/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Abhinav1527/LEETCODE/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [1945-sum-of-digits-of-string-after-convert](https://github.com/Abhinav1527/LEETCODE/tree/master/1945-sum-of-digits-of-string-after-convert) |
