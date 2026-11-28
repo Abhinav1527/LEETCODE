@@ -1,16 +1,24 @@
 class Solution {
     public int[] minOperations(String boxes) {
         int n = boxes.length();
-        int[] ans = new int[n];
-        for(int i=0;i<n;i++) {
-            int moves = 0;
-            for(int j=0;j<n;j++) {
-                if(i!=j && boxes.charAt(j) == '1') {
-                    moves += Math.abs(i-j);
-                }
-            }
-            ans[i] = moves;
+        int[] prefix = new int[n];
+        int[] suffix = new int[n];
+
+        int cp = 0;
+        int cs = 0;
+        if(boxes.charAt(0) == '1') cp++;
+        if(boxes.charAt(n-1) == '1') cs++;
+
+        for(int i=1;i<n;i++) {
+            prefix[i] = prefix[i-1] + cp;
+            if(boxes.charAt(i) == '1') cp++;
+            suffix[n-1-i] = suffix[n-i] + cs;
+            if(boxes.charAt(n-1-i) == '1') cs++;
         }
-        return ans;
+
+        for(int i=0;i<n;i++) {
+            prefix[i] += suffix[i];
+        }
+        return prefix;
     }
 }
